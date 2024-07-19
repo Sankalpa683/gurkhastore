@@ -33,7 +33,7 @@ function page({ params }) {
               </BreadcrumbItem>
               <BreadcrumbSeparator />
               <BreadcrumbItem>
-                <BreadcrumbPage>{params.id}</BreadcrumbPage>
+                <BreadcrumbPage>Fresh Organic Apples</BreadcrumbPage>
               </BreadcrumbItem>
             </BreadcrumbList>
           </Breadcrumb>
