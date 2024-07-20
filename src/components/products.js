@@ -3,12 +3,17 @@ import { useEffect, useState } from 'react';
 import { Button } from "@/components/ui/button";
 import Link from 'next/link';
 import axios from 'axios';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import { Navigation, Pagination } from 'swiper/modules';
 
 const Products = () => {
   const [products, setProducts] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
-  const itemsPerPage = 4;
+  const itemsPerPage = 20;
 
   useEffect(() => {
     fetchProducts(page);
@@ -19,7 +24,7 @@ const Products = () => {
     try {
       const response = await axios.get('/ProductList.json');
       const allProducts = response.data;
-      const startIndex = itemsPerPage;
+      const startIndex = itemsPerPage * (pageNumber - 1);
       const paginatedProducts = allProducts.slice(startIndex, startIndex + itemsPerPage);
       setProducts(paginatedProducts);
     } catch (error) {
@@ -27,7 +32,6 @@ const Products = () => {
     }
     setLoading(false);
   };
-
 
   return (
     <>
@@ -38,43 +42,55 @@ const Products = () => {
               <h1 className="text-lg sm:text-2xl font-bold mb-8">New Arrivals</h1>
               <Button className=''>View all</Button>
             </div>
-            <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-3">
-              {loading ? (
-                <p>Loading...</p>
-              ) : (
-                products.map((product, index) => (
-                  <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden">
-                    <img
-                      src="https://www.froghollow.com/cdn/shop/products/pink-lady-apples-hero_e628bb5f-8ffe-46c9-9fcb-a2fb947e0ded_300x300.jpg?v=1628281343"
-                      alt={product.Name}
-                      width={400}
-                      height={300}
-                      className="w-full h-48 object-cover"
-                    />
-                    <div className="flex flex-col flex-wrap p-4">
-                      <div className='h-auto sm:h-24'>
-                        <h2 className="text-lg sm:text-xl font-semibold mb-2">{product.Name}</h2>
-                        <p className="text-gray-600">{product.sale_price} per lb</p>
-                      </div>
-                      <div>
-                        <Link href={`/product/${product.id}`}>
-                          <Button variant="outline" className="w-full">
-                            Buy Now
-                          </Button>
-                        </Link>
+            {loading ? (
+              <p>Loading...</p>
+            ) : (
+              <Swiper
+                spaceBetween={10}
+                slidesPerView={1}
+                breakpoints={{
+                  499: {
+                    slidesPerView: 1,
+                  },
+                  500: {
+                    slidesPerView: 2,
+                  },
+                  1024: {
+                    slidesPerView: 4,
+                  },
+                }}
+              >
+                {products.map((product, index) => (
+                  <SwiperSlide key={index}>
+                    <div className="bg-white rounded-lg shadow-md overflow-hidden">
+                      <img
+                        src="https://www.froghollow.com/cdn/shop/products/pink-lady-apples-hero_e628bb5f-8ffe-46c9-9fcb-a2fb947e0ded_300x300.jpg?v=1628281343"
+                        alt={product.Name}
+                        width={400}
+                        height={300}
+                        className="w-full h-48 object-cover"
+                      />
+                      <div className="flex flex-col flex-wrap p-4">
+                        <div className='h-auto sm:h-24'>
+                          <h2 className="text-lg sm:text-xl font-semibold mb-2">{product.Name}</h2>
+                          <p className="text-gray-600">{product.sale_price} per lb</p>
+                        </div>
+                        <div>
+                          <Link href={`/product/${product.id}`}>
+                            <Button variant="outline" className="w-full">
+                              Buy Now
+                            </Button>
+                          </Link>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                ))
-              )}
-            </div>
-
+                  </SwiperSlide>
+                ))}
+              </Swiper>
+            )}
           </div>
-
         </div>
-        
       </section>
-
     </>
   );
 }

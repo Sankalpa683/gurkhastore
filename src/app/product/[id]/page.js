@@ -39,7 +39,7 @@ function page({ params }) {
           </Breadcrumb>
 
         </div>
-        <div className="grid md:grid-cols-2 gap-6 lg:gap-12 items-start max-w-6xl overflow-hidden px-4 mx-auto py-4 mb-8">
+        <div className="grid md:grid-cols-2 gap-6 lg:gap-16 items-start max-w-6xl overflow-hidden px-4 mx-auto py-4 mb-8">
 
           <div className="grid gap-4">
             <img
