@@ -1,7 +1,7 @@
 import React from 'react'
 import Nav from '@/components/nav'
 import Carousel from '@/components/carousel'
-import Products from '@/components/products'
+import Every from '@/components/every'
 import Footer from '@/components/footer'
 
 
@@ -10,7 +10,7 @@ function page() {
     <>
       <Nav/>
       <Carousel first="The " highlight="modern" text=" way for everyone to shop groceries at Gurkha Suparmarket"/>
-      <Products/>
+      <Every/>
       <Footer/>
     </>
   )

@@ -1,12 +1,5 @@
 [
     {
-        "Name": "Water",
-        "Description": "water",
-        "sale_price": " $2.50 ",
-        "Image URL": "https://example.com/images/water.jpg",
-        "id": "npyqjGv3O"
-    },
-    {
         "Name": "AAMA Hot Mango Pickle 380g",
         "Description": "AAMA Hot Mango Pickle 380g",
         "sale_price": " $6.49 ",

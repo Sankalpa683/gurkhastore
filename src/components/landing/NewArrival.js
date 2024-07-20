@@ -7,9 +7,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import { Navigation, Pagination } from 'swiper/modules';
 
-const Products = () => {
+const NewArrival = () => {
   const [products, setProducts] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
@@ -36,7 +35,7 @@ const Products = () => {
   return (
     <>
       <section className=''>
-        <div className='py-12'>
+        <div className='py-8'>
           <div className="container mx-auto px-4 md:px-6">
             <div className='flex flex-wrap justify-between'>
               <h1 className="text-lg sm:text-2xl font-bold mb-8">New Arrivals</h1>
@@ -95,4 +94,4 @@ const Products = () => {
   );
 }
 
-export default Products;
+export default NewArrival;

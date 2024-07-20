@@ -22,7 +22,7 @@ function footer() {
               <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
                 Home
               </Link>
-              <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
+              <Link href="/shop" className="hover:underline hover:underline-offset-4" prefetch={false}>
                 Shop
               </Link>
               <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
