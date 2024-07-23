@@ -38,7 +38,7 @@ const NewArrival = () => {
         <div className=''>
           <div className="container mx-auto px-4 md:px-6">
             <div className='flex flex-wrap justify-between'>
-              <h1 className="text-lg sm:text-2xl font-bold mb-8">New Arrivals</h1>
+              <h1 className="text-lg sm:text-2xl font-bold mb-8">Popular Products</h1>
               <Button className=''>View all</Button>
             </div>
             {loading ? (
