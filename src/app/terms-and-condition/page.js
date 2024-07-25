@@ -1,6 +1,7 @@
 import React from 'react'
 import Nav from '@/components/nav'
 import Footer from '@/components/footer'
+import Head from 'next/head';
 
 function terms() {
     const metadata = {
