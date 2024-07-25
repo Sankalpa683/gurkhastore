@@ -23,7 +23,7 @@ function genre() {
 
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300 '>
+                                        <div className='bg-none sm:bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all w-full hover:bg-gray-300 '>
                                             <img src='https://miro.medium.com/v2/resize:fit:1400/1*RI7K6P3Su5Gxc-w5cuuVjA.jpeg' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -33,7 +33,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://www.mtrfoods.com/mtr_admin/data_content/products_category/background_img/3-mins-bf-packshot-1.png' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -43,7 +43,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://pngpix.com/images/hd/assorted-soft-drinks-collection-somfcu3i1fjydigh.jpg' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -53,7 +53,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://png.pngtree.com/png-vector/20240203/ourlarge/pngtree-fresh-food-milk-with-bread-png-image_11596379.png' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -63,7 +63,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://www.pngkit.com/png/full/366-3669003_tutti-fruity-cookies-bakery-biscuits-packet-png.png' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -73,7 +73,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://hips.hearstapps.com/hmg-prod/images/marinara-sauce-bottles-215-1547064355.jpg' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -83,7 +83,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://www.ceylonsupermart.com/cdn/shop/collections/ee2dab3e8300e29757a9b5b23003a7f9.jpg?v=1655384849' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -93,7 +93,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem>
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiLYUP2A1Il1b-r9mZTbPWkxGypC_4wTXUQ&s' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>
@@ -103,7 +103,7 @@ function genre() {
                                 </CarouselItem>
                                 <CarouselItem className="">
                                     <div className=' flex flex-col flex-wrap justify-center items-center cursor-pointer'>
-                                        <div className='bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
+                                        <div className='bg-none sm:bg-gray-200 p-4 rounded-full mb-2 transition-all hover:bg-gray-300'>
                                             <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7DUcLZXup-WkTiJVezI77A2ePyv-x8XrWg&s' className='rounded-full w-24 h-20' />
                                         </div>
                                         <div>

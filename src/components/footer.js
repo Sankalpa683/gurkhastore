@@ -36,16 +36,16 @@ function footer() {
           <div className="grid gap-2">
             <h4 className="font-semibold">Information</h4>
             <nav className="grid gap-1">
-              <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
-                Shipping
+              <Link href="shipping-policy" target='_blank' className="hover:underline hover:underline-offset-4" prefetch={false}>
+                Shipping Policy
               </Link>
-              <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
-                Returns
+              <Link href="return-policy" target='_blank' className="hover:underline hover:underline-offset-4" prefetch={false}>
+                Returns Policy
               </Link>
-              <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
+              <Link href="/privacy-policy" target='_blank' className="hover:underline hover:underline-offset-4" prefetch={false}>
                 Privacy Policy
               </Link>
-              <Link href="#" className="hover:underline hover:underline-offset-4" prefetch={false}>
+              <Link href="/terms-and-condition" target='_blank' className="hover:underline hover:underline-offset-4" prefetch={false}>
                 Terms of Service
               </Link>
             </nav>

@@ -20,12 +20,12 @@ function benefit() {
         <div>
           <Card>
             <CardHeader>
-              <div className='flex flex-wrap gap-4'>
+              <div className='flex flex-wrap justify-center gap-4'>
                 <div className='flex justify-center items-center'>
                   <IoPricetag className='w-20 h-8' />
                 </div>
                 <div>
-                  <CardTitle>Best Price</CardTitle>
+                  <h1 className='text-center text-lg font-medium'>Best Price</h1>
                 </div>
               </div>
 
@@ -35,12 +35,12 @@ function benefit() {
         <div>
           <Card>
             <CardHeader>
-              <div className='flex flex-wrap gap-4'>
+              <div className='flex flex-wrap justify-center gap-4'>
                 <div className='flex justify-center items-center'>
                   <GiReturnArrow className='w-20 h-8' />
                 </div>
                 <div>
-                  <CardTitle>Return Policy</CardTitle>
+                  <h1 className='text-center text-lg font-medium'>Return Policy</h1>
                 </div>
               </div>
 
@@ -50,12 +50,12 @@ function benefit() {
         <div>
           <Card>
             <CardHeader>
-              <div className='flex flex-wrap gap-4'>
+              <div className='flex flex-wrap justify-center gap-4'>
                 <div className='flex justify-center items-center'>
                   <MdPayments className='w-20 h-8' />
                 </div>
                 <div>
-                  <CardTitle>Securely Pay</CardTitle>
+                  <h1 className='text-center text-lg font-medium'>Securely Pay</h1>
                 </div>
               </div>
 
@@ -65,12 +65,12 @@ function benefit() {
         <div>
           <Card>
             <CardHeader>
-              <div className='flex flex-wrap gap-4'>
+              <div className='flex flex-wrap justify-center gap-4'>
                 <div className='flex justify-center items-center'>
                   <MdSupportAgent className='w-20 h-8' />
                 </div>
                 <div>
-                  <CardTitle>24*7 Support</CardTitle>
+                  <h1 className='text-center text-lg font-medium'>24*7 Support</h1>
                 </div>
               </div>
 
