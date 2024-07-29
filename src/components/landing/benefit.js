@@ -25,7 +25,7 @@ function benefit() {
                   <IoPricetag className='w-20 h-8' />
                 </div>
                 <div>
-                  <h1 className='text-center text-lg font-medium'>Best Price</h1>
+                  <h1 className='text-center text-lg font-medium'>Best fair price</h1>
                 </div>
               </div>
 
