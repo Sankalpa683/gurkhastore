@@ -11,7 +11,7 @@ import {
 function breadcrumbs({href}) {
     return (
         <>
-            <div id='breadcumbs' className='grid  max-w-6xl  overflow-hidden px-4 mx-auto py-8 container'>
+            <div id='breadcumbs' className='grid overflow-hidden px-4 mx-auto pt-8 py-2 container'>
                 <Breadcrumb>
                     <BreadcrumbList>
                         <BreadcrumbItem>

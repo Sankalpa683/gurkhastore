@@ -29,7 +29,7 @@ function page({ params }) {
               </BreadcrumbItem>
               <BreadcrumbSeparator />
               <BreadcrumbItem>
-                <BreadcrumbLink href="/product">Product</BreadcrumbLink>
+                <BreadcrumbLink href="/shop">Shop</BreadcrumbLink>
               </BreadcrumbItem>
               <BreadcrumbSeparator />
               <BreadcrumbItem>
