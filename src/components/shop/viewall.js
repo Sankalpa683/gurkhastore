@@ -3,6 +3,12 @@ import { useEffect, useState } from 'react';
 import { Button } from "@/components/ui/button";
 import Link from 'next/link';
 import axios from 'axios';
+import { Slider } from "@/components/ui/slider"
+import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, DialogClose, DialogFooter } from "@/components/ui/dialog"
+import { Label } from "@/components/ui/label"
+import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuCheckboxItem } from "@/components/ui/dropdown-menu"
+import { Input } from "@/components/ui/input"
+
 
 const Viewall = () => {
   const [products, setProducts] = useState([]);
@@ -37,9 +43,72 @@ const Viewall = () => {
       <div className='container mx-auto px-4'>
         <div className='flex flex-wrap justify-between items-center mb-8'>
           <h1 className="text-lg sm:text-2xl font-bold">New Arrivals</h1>
-          <Link href='/shop'>
-            <Button>Sort Out</Button>
-          </Link>
+          <div>
+            <Dialog>
+              <DialogTrigger asChild>
+                <Button variant="outline" className="flex items-center gap-2">
+                  {/* <FilterIcon className="w-5 h-5" /> */}
+                  <span>Sort out</span>
+                  <ChevronsUpDownIcon className="w-4 h-4 ml-auto" />
+                </Button>
+              </DialogTrigger>
+              <DialogContent className="sm:max-w-[400px]">
+                <DialogHeader>
+                  <DialogTitle>Filter Products</DialogTitle>
+                </DialogHeader>
+                <div className="grid gap-4 py-4">
+                  <div className="grid gap-2">
+                    <Label htmlFor="category">Category</Label>
+                    <DropdownMenu>
+                      <DropdownMenuTrigger asChild>
+                        <Button variant="outline" className="justify-between w-full">
+                          <span>Select Category</span>
+                          <ChevronsUpDownIcon className="w-4 h-4" />
+                        </Button>
+                      </DropdownMenuTrigger>
+                      <DropdownMenuContent className="w-full">
+                        <DropdownMenuCheckboxItem>Chips</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Dairy</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Meat</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Pickles</DropdownMenuCheckboxItem>
+                      </DropdownMenuContent>
+                    </DropdownMenu>
+                  </div>
+                  <div className="grid gap-2">
+                    <Label htmlFor="size">Filter by</Label>
+                    <DropdownMenu>
+                      <DropdownMenuTrigger asChild>
+                        <Button variant="outline" className="justify-between w-full">
+                          <span>Select products</span>
+                          <ChevronsUpDownIcon className="w-4 h-4" />
+                        </Button>
+                      </DropdownMenuTrigger>
+                      <DropdownMenuContent className="w-full">
+                        <DropdownMenuCheckboxItem>Popular Products</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Trending Products</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>You may like</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>New Arrivals</DropdownMenuCheckboxItem>
+                      </DropdownMenuContent>
+                    </DropdownMenu>
+                  </div>
+
+                  <div className="grid gap-2">
+                    <Label htmlFor="price">Price Range</Label>
+                    <div className="flex items-center gap-4">
+                      <Input id="min-price" type="number" placeholder="Min" className="w-full" />
+                      <span>-</span>
+                      <Input id="max-price" type="number" placeholder="Max" className="w-full" />
+                    </div>
+                  </div>
+                </div>
+                <DialogFooter>
+                  <Button variant="outline">Clear Filters</Button>
+                  <Button>Apply Filters</Button>
+                </DialogFooter>
+              </DialogContent>
+            </Dialog>
+
+          </div>
         </div>
         {loading && products.length === 0 ? (
           <div className="flex justify-center items-center h-48">
@@ -87,5 +156,65 @@ const Viewall = () => {
     </section>
   );
 };
+function ChevronsUpDownIcon(props) {
+  return (
+    <svg
+      {...props}
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
+      <path d="m7 15 5 5 5-5" />
+      <path d="m7 9 5-5 5 5" />
+    </svg>
+  )
+}
+
+
+function FilterIcon(props) {
+  return (
+    <svg
+      {...props}
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
+      <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3" />
+    </svg>
+  )
+}
+
+
+function XIcon(props) {
+  return (
+    <svg
+      {...props}
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
+      <path d="M18 6 6 18" />
+      <path d="m6 6 12 12" />
+    </svg>
+  )
+}
 
 export default Viewall;
