@@ -33,67 +33,57 @@ const NewArrival = () => {
   };
 
   return (
-    <>
-      <section className='py-12'>
-        <div className=''>
-          <div className="container mx-auto px-4 md:px-6">
-            <div className='flex flex-wrap justify-between'>
-              <h1 className="text-lg sm:text-2xl font-bold mb-8">New Arrivals</h1>
-              <Link href='/shop'>
-                <Button>View all</Button>
-              </Link>
-
-            </div>
-            {loading ? (
-              <p>Loading...</p>
-            ) : (
-              <Swiper
-                spaceBetween={10}
-                slidesPerView={1}
-                breakpoints={{
-                  499: {
-                    slidesPerView: 1,
-                  },
-                  500: {
-                    slidesPerView: 2,
-                  },
-                  1024: {
-                    slidesPerView: 5,
-                  },
-                }}
-              >
-                {products.map((product, index) => (
-                  <SwiperSlide key={index}>
-                    <div className="bg-white rounded-lg shadow-md overflow-hidden">
-                      <img
-                        src="https://www.froghollow.com/cdn/shop/products/pink-lady-apples-hero_e628bb5f-8ffe-46c9-9fcb-a2fb947e0ded_300x300.jpg?v=1628281343"
-                        alt={product.Name}
-                        width={400}
-                        height={300}
-                        className="w-full h-48 object-cover"
-                      />
-                      <div className="flex flex-col flex-wrap p-4">
-                        <div className='h-auto sm:h-24'>
-                          <h2 className="text-lg sm:text-xl font-semibold mb-2">{product.Name}</h2>
-                          <p className="text-gray-600">{product.sale_price} per lb</p>
-                        </div>
-                        <div>
-                          <Link href={`/product/${product.id}`}>
-                            <Button variant="outline" className="w-full">
-                              Buy Now
-                            </Button>
-                          </Link>
-                        </div>
-                      </div>
-                    </div>
-                  </SwiperSlide>
-                ))}
-              </Swiper>
-            )}
-          </div>
+    <section className='py-12'>
+      <div className='container mx-auto px-4 md:px-6'>
+        <div className='flex flex-wrap justify-between items-center mb-8'>
+          <h1 className="text-lg sm:text-2xl font-bold">New Arrivals</h1>
+          <Link href='/shop'>
+            <Button>View all</Button>
+          </Link>
         </div>
-      </section>
-    </>
+        {loading ? (
+          <p>Loading...</p>
+        ) : (
+          <Swiper
+            spaceBetween={10}
+            slidesPerView={1}
+            breakpoints={{
+              280: {
+                slidesPerView: 2,
+              },
+              1024: {
+                slidesPerView: 5,
+              },
+            }}
+          >
+            {products.map((product, index) => (
+              <SwiperSlide key={index}>
+                <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-full">
+                  <img
+                    src="https://www.froghollow.com/cdn/shop/products/pink-lady-apples-hero_e628bb5f-8ffe-46c9-9fcb-a2fb947e0ded_300x300.jpg?v=1628281343"
+                    alt={product.Name}
+                    width={400}
+                    height={300}
+                    className="w-full h-48 object-cover"
+                  />
+                  <div className="p-4 flex flex-col flex-grow">
+                    <h2 className="text-lg sm:text-xl font-semibold mb-2 line-clamp-2">{product.Name}</h2>
+                    <p className="text-gray-600 mb-4">{product.sale_price}</p>
+                    <div className="mt-auto">
+                      <Link href={`/product/${product.id}`}>
+                        <Button variant="outline" className="w-full">
+                          Buy Now
+                        </Button>
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        )}
+      </div>
+    </section>
   );
 }
 
