@@ -40,7 +40,7 @@ const NewArrival = () => {
             <div className='flex flex-wrap justify-between'>
               <h1 className="text-lg sm:text-2xl font-bold mb-8">New Arrivals</h1>
               <Link href='/shop'>
-                <Button className='bg-customblue text-white hover:bg-blue-600'>View all</Button>
+                <Button>View all</Button>
               </Link>
 
             </div>

@@ -12,7 +12,7 @@ function page() {
       <Nav />
       <Carousel first="Browse " highlight="Our Catagory" text=' Updated Regularly with New Additions' />
       <section>
-        <div className='grid grid-cols-1 gap-4 container w-full'>
+        <div className='grid grid-cols-1 gap-4  w-full'>
           <div className='w-full'>
             <div className='mx-auto px-4 md:px-6'>
               <Breadcrumbs href='Shop' />
