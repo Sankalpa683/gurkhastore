@@ -103,7 +103,7 @@ function Page({ params }) {
             {/* Price and Button at the bottom */}
             <Separator />
 
-            <div className="flex flex-col md:flex-row items-center justify-between mt-auto">
+            <div className="flex flex-wrap gap-4 md:flex-row items-center justify-between mt-auto">
               <div className="text-4xl font-bold">{product.sale_price}</div>
               <Link href={`/checkout/${productId}`}>
                 <Button size="lg" variant="destructive">Buy Now</Button>
