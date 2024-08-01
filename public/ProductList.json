@@ -4,154 +4,207 @@
         "Description": "AAMA Hot Mango Pickle 380g",
         "sale_price": " $6.49 ",
         "img_url": "https://example.com/images/aama_hot_mango_pickle.jpg",
-        "id": "TrDda3Vys"
+        "id": "TrDda3Vys",
+        "category": "Pickle",
+        "keyword": "Mango Pickle"
     },
     {
         "Name": "AAMA Methi Pickle 380g",
         "Description": "AAMA Methi Pickle 380g",
         "sale_price": " $6.49 ",
         "img_url": "https://example.com/images/aama_methi_pickle.jpg",
-        "id": "Ceg2TMwS0"
+        "id": "Ceg2TMwS0",
+        "category": "Pickle",
+        "keyword": "Methi Pickle"
     },
     {
         "Name": "AAMA Hot & Spicy Lapsi Pickle 380g",
         "Description": "AAMA Hot & Spicy Lapsi Pickle 380g",
         "sale_price": " $6.49 ",
         "img_url": "https://example.com/images/aama_hot_spicy_lapsi_pickle.jpg",
-        "id": "348jqPu3n"
+        "id": "348jqPu3n",
+        "category": "Pickle",
+        "keyword": "Lapsi Pickle"
     },
     {
         "Name": "AAma Sweet Lapsi pickle 400g",
         "Description": "AAma Sweet Lapsi pickle 400g",
         "sale_price": " $6.49 ",
         "img_url": "https://example.com/images/aama_sweet_lapsi_pickle.jpg",
-        "id": "XeRMlrHJB"
+        "id": "XeRMlrHJB",
+        "category": "Pickle",
+        "keyword": "Sweet Lapsi Pickle"
     },
     {
         "Name": "Aama Cucumber Pickle 380g",
         "Description": "Aama Cucumber Pickle 380g",
         "sale_price": " $6.49 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "RPHOaHKQP"
+        "id": "RPHOaHKQP",
+        "category": "Pickle",
+        "keyword": "Cucumber Pickle"
     },
     {
         "Name": "Aama Bitter Gourd Pickle 380g",
         "Description": "Aama Bitter Gourd Pickle 380g",
         "sale_price": " $6.20 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "dWsgXgHyI"
+        "id": "dWsgXgHyI",
+        "category": "Pickle",
+        "keyword": "Bitter Gourd Pickle"
     },
     {
         "Name": "AAMA Nepali Bamboo Shoots 380g",
         "Description": "AAMA Nepali Bamboo Shoots 380g",
         "sale_price": " $6.20 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "PGiEKQ1vT"
+        "id": "PGiEKQ1vT",
+        "category": "Vegetable",
+        "keyword": "Bamboo Shoots"
     },
     {
         "Name": "Kanchi ko Achar Radish Pickle 320g",
         "Description": "Kanchi ko Achar Radish Pickle 320g",
         "sale_price": " $4.80 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "3g8inIFRN"
+        "id": "3g8inIFRN",
+        "category": "Pickle",
+        "keyword": "Radish Pickle"
     },
     {
         "Name": "84CS Dry Timur Chilli chop 100g",
         "Description": "84CS Dry Timur Chilli (Mustang) chop 100g",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ILkosyQ0k"
+        "id": "ILkosyQ0k",
+        "category": "Spice",
+        "keyword": "Dry Timur Chilli"
     },
     {
         "Name": "84CS Choyela Paste 200g",
         "Description": "84CS Choyela Paste 200g",
         "sale_price": " $7.49 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "bF3Q6ryjZ"
+        "id": "bF3Q6ryjZ",
+        "category": "Paste",
+        "keyword": "Choyela Paste"
     },
     {
         "Name": "84CS Roasted Cumin Powder 200g",
         "Description": "84CS Roasted Cumin Powder 200g",
         "sale_price": " $5.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "th7yPhWZF"
+        "id": "th7yPhWZF",
+        "category": "Spice",
+        "keyword": "Roasted Cumin Powder"
     },
     {
         "Name": "84CS Roasted Coriander Powder200g",
         "Description": "84CS Roasted Coriander Powder200g",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "9BcujkRzp"
+        "id": "9BcujkRzp",
+        "category": "Spice",
+        "keyword": "Roasted Coriander Powder"
     },
     {
         "Name": "84CS Roasted Cumin Coriander Powder 200g",
         "Description": "84CS Roasted Cumin Coriander Powder 200g",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Ds1IFutVQ"
+        "id": "Ds1IFutVQ",
+        "category": "Spice",
+        "keyword": "Roasted Cumin Coriander Powder"
     },
     {
         "Name": "Century Momo masala 50g",
         "Description": "Century Momo masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Vyfk8UXc3"
+        "id": "Vyfk8UXc3",
+        "category": "Spice",
+        "keyword": "Momo Masala"
     },
     {
         "Name": "Century Meat masala 50g",
         "Description": "Century Meat masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "beZJAAGen"
+        "id": "beZJAAGen",
+        "category": "Spice",
+        "keyword": "Meat Masala"
     },
     {
         "Name": "Century Garam masala 50g",
         "Description": "Century Garam masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "uhvu6u5sS"
+        "id": "uhvu6u5sS",
+        "category": "Spice",
+        "keyword": "Garam Masala"
     },
     {
         "Name": "Century Sekuwa masala 50g",
         "Description": "Century Sekuwa masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "H7aI25q41"
+        "id": "H7aI25q41",
+        "category": "Spice",
+        "keyword": "Sekuwa Masala"
     },
     {
         "Name": "Century Biryani masala 50g",
         "Description": "Century Biryani masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "wUp3aIIO9"
+        "id": "wUp3aIIO9",
+        "category": "Spice",
+        "keyword": "Biryani Masala"
     },
     {
         "Name": "Century Sabji masala 50g",
         "Description": "Century Sabji masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "PeqZgXxpJ"
+        "id": "PeqZgXxpJ",
+        "category": "Spice",
+        "keyword": "Sabji Masala"
     },
     {
         "Name": "Century Chat masala 50g",
         "Description": "Century Chat masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "jayVkK5Mm"
+        "id": "jayVkK5Mm",
+        "category": "Spice",
+        "keyword": "Chat Masala"
     },
     {
         "Name": "Century Curry Powder masala 50g",
         "Description": "Century Curry Powder masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "aVv29L9cJ"
+        "id": "aVv29L9cJ",
+        "category": "Spice",
+        "keyword": "Curry Powder Masala"
     },
     {
         "Name": "Century Pani Puri masala 50g",
         "Description": "Century Pani Puri masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "CRIod2EHI"
+        "id": "CRIod2EHI",
+        "category": "Spice",
+        "keyword": "Pani Puri Masala"
+    },
+    {
+        "Name": "84CS Jimbu 50g",
+        "Description": "84CS Jimbu 50g",
+        "sale_price": " $4.99 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "NrpZ39pk4",
+        "category": "Herb",
+        "keyword": "Jimbu"
     },
     {
         "Name": "Century Chowmein masala 50g",
@@ -161,1473 +214,1974 @@
         "id": "sfHxQog9g"
     },
     {
+        "Name": "Century Chowmein masala 50g",
+        "Description": "Century Chowmein masala 50g",
+        "sale_price": " $1.99 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "sfHxQog9g",
+        "category": "Spice",
+        "keyword": "Chowmein Masala"
+    },
+    {
         "Name": "Century Chana masala 50g",
         "Description": "Century Chana masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "jOdMnUvCO"
+        "id": "jOdMnUvCO",
+        "category": "Spice",
+        "keyword": "Chana Masala"
     },
     {
         "Name": "Century Fish masala 50g",
         "Description": "Century Fish masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "bCqhqSeCW"
+        "id": "bCqhqSeCW",
+        "category": "Spice",
+        "keyword": "Fish Masala"
     },
     {
         "Name": "BMC Momo masala 50g",
         "Description": "BMC Momo masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Qt6jGBNLS"
+        "id": "Qt6jGBNLS",
+        "category": "Spice",
+        "keyword": "Momo Masala"
     },
     {
         "Name": "BMC Chicken masala 50g",
         "Description": "BMC Chicken masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Xl0C8nerh"
+        "id": "Xl0C8nerh",
+        "category": "Spice",
+        "keyword": "Chicken Masala"
     },
     {
         "Name": "BMC Meat masala 50g",
         "Description": "BMC Meat masala 50g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "MjQNthIiP"
+        "id": "MjQNthIiP",
+        "category": "Spice",
+        "keyword": "Meat Masala"
     },
     {
         "Name": "Barari Veg Chowmein 350g",
         "Description": "Barari Veg Chowmein 350g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "H7WPnmC72"
+        "id": "H7WPnmC72",
+        "category": "Noodles",
+        "keyword": "Veg Chowmein"
     },
     {
         "Name": "Zebra Thukpa Noodles 900g",
         "Description": "Zebra Thukpa Noodles 900g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Gtv7a8Ll4"
+        "id": "Gtv7a8Ll4",
+        "category": "Noodles",
+        "keyword": "Thukpa Noodles"
     },
     {
         "Name": "84CS Dhungree Pappadums 300g",
         "Description": "84CS Dhungree Pappadums 300g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "xagEYPOOc"
+        "id": "xagEYPOOc",
+        "category": "Snacks",
+        "keyword": "Pappadums"
     },
     {
         "Name": "Century Pani Puri Chips 175g",
         "Description": "Century Pani Puri Chips 175g",
         "sale_price": " $2.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "1JNsoxuuJ"
+        "id": "1JNsoxuuJ",
+        "category": "Snacks",
+        "keyword": "Pani Puri Chips"
     },
     {
         "Name": "Rijals Furandana 700g",
         "Description": "Rijals Furandana 700g",
         "sale_price": " $6.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "W2zBWktjL"
+        "id": "W2zBWktjL",
+        "category": "Snacks",
+        "keyword": "Furandana"
     },
     {
         "Name": "Rijals Masala Matar Fry 180g",
         "Description": "Rijals Masala Matar Fry 180g",
         "sale_price": " $3.45 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "AGyif2VwD"
+        "id": "AGyif2VwD",
+        "category": "Snacks",
+        "keyword": "Masala Matar Fry"
     },
     {
         "Name": "Bagmati Spicy Masala Potato Chips 180g",
         "Description": "Bagmati Spicy Masala Potato Chips 180g",
         "sale_price": " $5.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "2gqzeGfKt"
+        "id": "2gqzeGfKt",
+        "category": "Snacks",
+        "keyword": "Masala Potato Chips"
     },
     {
         "Name": "Bagmati Spicy Masala Dalmoth 500g",
         "Description": "Bagmati Spicy Masala Dalmoth 500g",
         "sale_price": " $5.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ZuOf7aJkQ"
+        "id": "ZuOf7aJkQ",
+        "category": "Snacks",
+        "keyword": "Masala Dalmoth"
     },
     {
         "Name": "Bagmati Spicy Fried Soybeans 300g",
         "Description": "Bagmati Spicy Fried Soybeans 300g",
         "sale_price": " $4.55 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Dbo6WskjM"
+        "id": "Dbo6WskjM",
+        "category": "Snacks",
+        "keyword": "Fried Soybeans"
     },
     {
         "Name": "Kwiks Cheeseballs 32g",
         "Description": "Kwiks Cheeseballs 32g",
         "sale_price": " $1.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "c7rhkLpLg"
+        "id": "c7rhkLpLg",
+        "category": "Snacks",
+        "keyword": "Cheeseballs"
     },
     {
         "Name": "Kwiks Hot & Spicy Potato Chips 60g",
         "Description": "Kwiks Hot & Spicy Potato Chips 60g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "U5Ffvp9X0"
+        "id": "U5Ffvp9X0",
+        "category": "Snacks",
+        "keyword": "Spicy Potato Chips"
     },
     {
         "Name": "Current Hot & Spicy Sticks 80g",
         "Description": "Current Hot & Spicy Sticks 80g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "GGwbFDv21"
+        "id": "GGwbFDv21",
+        "category": "Snacks",
+        "keyword": "Spicy Sticks"
     },
     {
         "Name": "Current Cheeseballs 60g",
         "Description": "Current Cheeseballs 60g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "DQXKlF04s"
+        "id": "DQXKlF04s",
+        "category": "Snacks",
+        "keyword": "Cheeseballs"
     },
     {
         "Name": "Nebico Coconut Crunchies (Biscuit) 200g",
         "Description": "Nebico Coconut Crunchies (Biscuit) 200g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "MP5X4l37Y"
+        "id": "MP5X4l37Y",
+        "category": "Biscuits",
+        "keyword": "Coconut Crunchies"
     },
     {
         "Name": "Khajurico Puff 150g",
         "Description": "Khajurico Puff 150g",
         "sale_price": " $4.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "kMfmcv2Lq"
+        "id": "kMfmcv2Lq",
+        "category": "Snacks",
+        "keyword": "Puff"
     },
     {
         "Name": "84CS Sano Kerau (Roasted Peas) 500g",
         "Description": "84CS Sano Kerau (Roasted Peas) 500g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "yNKnJGiZ5"
+        "id": "yNKnJGiZ5",
+        "category": "Snacks",
+        "keyword": "Roasted Peas"
     },
     {
         "Name": "84CS Masyang (Rice Beans) 500g",
         "Description": "84CS Masyang (Rice Beans) 500g",
         "sale_price": " $4.00 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Vh8JVBXMQ"
+        "id": "Vh8JVBXMQ",
+        "category": "Legumes",
+        "keyword": "Rice Beans"
     },
     {
         "Name": "84CS Khairo Bhatmas 500g",
         "Description": "84CS Brown Soybeans (Khairo Bhatmas) 500g",
         "sale_price": " $4.70 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "rvhigbDIi"
+        "id": "rvhigbDIi",
+        "category": "Legumes",
+        "keyword": "Brown Soybeans"
     },
     {
         "Name": "84CS Kalo Bhatmas 500g",
         "Description": "84CS Black Soybeans (Kalo Bhatmas) 500g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "LJdFxuhut"
+        "id": "LJdFxuhut",
+        "category": "Legumes",
+        "keyword": "Black Soybeans"
     },
     {
         "Name": "84CS Kalo Thakali dal 500g",
         "Description": "84CS Black Split Beans (Kalo Thakali dal) 500g",
         "sale_price": " $4.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fn57PAtTc"
+        "id": "fn57PAtTc",
+        "category": "Legumes",
+        "keyword": "Black Split Beans"
     },
     {
         "Name": "Wai wai chicken noodles 5Pcs",
         "Description": "Wai wai chicken noodles Box",
         "sale_price": " $5.00 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "bubicJjhY"
+        "id": "bubicJjhY",
+        "category": "Noodles",
+        "keyword": "Chicken Noodles"
     },
     {
         "Name": "Wai wai veg noodles 5Pcs",
         "Description": "Wai wai veg noodles Box",
         "sale_price": " $5.00 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "STHWmPMsG"
+        "id": "STHWmPMsG",
+        "category": "Noodles",
+        "keyword": "Veg Noodles"
     },
     {
         "Name": "Current Hot & Spicy noodles Red 5Pcs",
         "Description": "Current Hot & Spicy noodles Red Box",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "8KL6O8kvC"
+        "id": "8KL6O8kvC",
+        "category": "Noodles",
+        "keyword": "Hot & Spicy Noodles"
     },
     {
         "Name": "Current 2X Hot&Spicy noodles black 5Pcs",
         "Description": "Current 2X Hot & Spicy noodles black Box",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "J7QqMpFkq"
+        "id": "J7QqMpFkq",
+        "category": "Noodles",
+        "keyword": "2X Hot & Spicy Noodles"
     },
     {
         "Name": "Current Hot & Lemon noodles Green 5Pcs",
         "Description": "Current Hot & Lemon noodles Green Box",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "3cCTKak0E"
+        "id": "3cCTKak0E",
+        "category": "Noodles",
+        "keyword": "Hot & Lemon Noodles"
     },
     {
         "Name": "2PM Akbare Chicken noodles Red 5Pcs",
         "Description": "2PM Akbare Chicken noodles Red Box",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "VNFKL8CDH"
+        "id": "VNFKL8CDH",
+        "category": "Noodles",
+        "keyword": "noodles"
     },
     {
         "Name": "Tokla tea green jar 200g",
         "Description": "Tokla tea green jar 200g",
         "sale_price": " $4.49 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "PnPWvJZDI"
+        "id": "PnPWvJZDI",
+        "category": "Tea",
+        "keyword": "tea"
     },
     {
         "Name": "Tokla Gold tea red jar 200g",
         "Description": "Tokla Gold tea red jar 200g",
         "sale_price": " $4.49 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "MiQo0VWxG"
+        "id": "MiQo0VWxG",
+        "category": "Tea",
+        "keyword": "tea"
     },
     {
         "Name": "Tokla tea green jar 1kg",
         "Description": "Tokla tea green jar 1kg",
         "sale_price": " $11.05 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Ns4qXfPcX"
+        "id": "Ns4qXfPcX",
+        "category": "Tea",
+        "keyword": "tea"
     },
     {
         "Name": "Tokla masala tea 500g",
         "Description": "Tokla masala tea 500g",
         "sale_price": " $7.49 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "AbAT2Wuwx"
+        "id": "AbAT2Wuwx",
+        "category": "Tea",
+        "keyword": "tea"
     },
     {
         "Name": "Tokla masala tea 200g",
         "Description": "Tokla masala tea 200g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Cr65Hngl8"
+        "id": "Cr65Hngl8",
+        "category": "Tea",
+        "keyword": "tea"
     },
     {
         "Name": "Century Glucose D powder 250g",
         "Description": "Century Glucose D powder 250g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fQJTG5sx3"
+        "id": "fQJTG5sx3",
+        "category": "Glucose",
+        "keyword": "glucose"
     },
     {
         "Name": "Himalayan Black salt powder200g",
         "Description": "Himalayan Black salt powder200g",
         "sale_price": " $3.58 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "1fC2HQSwJ"
+        "id": "1fC2HQSwJ",
+        "category": "Salt",
+        "keyword": "salt"
     },
     {
         "Name": "84CS Chuk amilo (Lemon Juice) 200ml",
         "Description": "84CS Chuk amilo 200ml",
         "sale_price": " $5.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "dJvKDtz1k"
+        "id": "dJvKDtz1k",
+        "category": "Juice",
+        "keyword": "lemon juice"
     },
     {
         "Name": "Tokha Chaku 250g",
         "Description": "Tokha Chaku 250g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "4taMBviMy"
+        "id": "4taMBviMy",
+        "category": "Candy",
+        "keyword": "candy"
     },
     {
         "Name": "Khokana Roasted mustard oil 500ml",
         "Description": "Khokana Roasted mustard oil 500ml",
         "sale_price": " $7.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "RepyQyf82"
+        "id": "RepyQyf82",
+        "category": "Oil",
+        "keyword": "mustard oil"
     },
     {
         "Name": "Sujal Orange ball Candy jar",
         "Description": "Sujal Orange ball Candy jar",
         "sale_price": " $9.10 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "tyzUwJJnz"
+        "id": "tyzUwJJnz",
+        "category": "Candy",
+        "keyword": "candy"
     },
     {
         "Name": "MH Chicken sukuti pickle 550g",
         "Description": "MH Chicken sukuti pickle 550g",
         "sale_price": " $12.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "qsZ3GkoZW"
+        "id": "qsZ3GkoZW",
+        "category": "Pickle",
+        "keyword": "chicken pickle"
     },
     {
         "Name": "MH Buff sukuti pickle 550g",
         "Description": "MH Buff sukuti pickle 550g",
         "sale_price": " $13.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "swxGkRkN9"
+        "id": "swxGkRkN9",
+        "category": "Pickle",
+        "keyword": "buff pickle"
     },
     {
         "Name": "MH Buff sukuti plain 100g",
         "Description": "MH Buff sukuti plain 100g",
         "sale_price": " $14.30 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "RPjkyJ94f"
+        "id": "RPjkyJ94f",
+        "category": "Meat",
+        "keyword": "buff sukuti"
     },
     {
         "Name": "MH Buff sukuti masala 100g",
         "Description": "MH Buff sukuti masala 100g",
         "sale_price": " $14.30 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "KPiFb8wcW"
+        "id": "KPiFb8wcW",
+        "category": "Meat",
+        "keyword": "buff sukuti"
     },
     {
         "Name": "MH Mutton sukuti masala 100g",
         "Description": "MH Mutton sukuti masala 100g",
         "sale_price": " $15.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "klPra2IJC"
+        "id": "klPra2IJC",
+        "category": "Meat",
+        "keyword": "mutton sukuti"
     },
     {
         "Name": "MH Deer (Venison) sukuti masala 100g",
         "Description": "MH Deer (Venison) sukuti masala 100g",
         "sale_price": " $15.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "MdfI13yu1"
+        "id": "MdfI13yu1",
+        "category": "Meat",
+        "keyword": "deer sukuti"
     },
     {
         "Name": "84Cs Taichen Red 500g",
         "Description": "84Cs Taichen Red 500g",
         "sale_price": " $3.75 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "8pVGb5gHI"
+        "id": "8pVGb5gHI",
+        "category": "Rice",
+        "keyword": "red rice"
     },
     {
         "Name": "84CS Taichen Red Cheura 500g",
         "Description": "84CS Taichen Red Cheura 500g",
         "sale_price": " $6.24 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "E0H5gmAHU"
+        "id": "E0H5gmAHU",
+        "category": "Rice",
+        "keyword": "cheura"
     },
     {
         "Name": "84CS Taichen Red Cheura 1kg",
         "Description": "84CS Taichen Red Cheura 1kg",
         "sale_price": " $6.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "qCirGBmbs"
+        "id": "qCirGBmbs",
+        "category": "Rice",
+        "keyword": "cheura"
     },
     {
         "Name": "84CS Pahadi Taichen Red Cheura 1kg",
         "Description": "84CS Pahadi Taichen Red Cheura 1kg",
         "sale_price": " $2.86 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "djVOzkptI"
+        "id": "djVOzkptI",
+        "category": "Rice",
+        "keyword": "cheura"
     },
     {
         "Name": "84CS Terai Taichen White Cheura 500g",
         "Description": "84CS Terai Taichen White Cheura 500g",
         "sale_price": " $5.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "LCIez459k"
+        "id": "LCIez459k",
+        "category": "Rice",
+        "keyword": "white rice"
+    },
+    {
+        "Name": "84CS Terai Taichen White Cheura 1kg",
+        "Description": "84CS Terai Taichen White Cheura 1kg",
+        "sale_price": " $9.95 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "QsL8wDi39",
+        "category": "Rice",
+        "keyword": "white rice"
+    },
+    {
+        "Name": "84CS Taichen White Cheura 1kg",
+        "Description": "84CS Taichen White Cheura 1kg",
+        "sale_price": " $8.50 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "rOKxIM4Qz",
+        "category": "Rice",
+        "keyword": "white rice"
+    },
+    {
+        "Name": "84CS Taichen White Cheura 500g",
+        "Description": "84CS Taichen White Cheura 500g",
+        "sale_price": " $5.35 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "FZq4Uikdj",
+        "category": "Rice",
+        "keyword": "white rice"
+    },
+    {
+        "Name": "Lays Classic Chips 110g",
+        "Description": "Lays Classic Chips 110g",
+        "sale_price": " $2.85 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "Gb9LC9h8P",
+        "category": "Chips",
+        "keyword": "classic chips"
+    },
+    {
+        "Name": "Lays Classic Chips 50g",
+        "Description": "Lays Classic Chips 50g",
+        "sale_price": " $1.40 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "dRe9DJgKm",
+        "category": "Chips",
+        "keyword": "classic chips"
+    },
+    {
+        "Name": "Pepsi Soft Drink 2L",
+        "Description": "Pepsi Soft Drink 2L",
+        "sale_price": " $3.00 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "CkUqkPzVf",
+        "category": "Soft Drink",
+        "keyword": "soft drink"
+    },
+    {
+        "Name": "Coca-Cola Soft Drink 1.5L",
+        "Description": "Coca-Cola Soft Drink 1.5L",
+        "sale_price": " $2.50 ",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "dNfdXLhVg",
+        "category": "Soft Drink",
+        "keyword": "soft drink"
     },
     {
         "Name": "84CS Terai Taichen White Cheura 1kg",
         "Description": "84CS Terai Taichen White Cheura 1kg",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "DXD8ANdnq"
+        "id": "DXD8ANdnq",
+        "category": "Rice",
+        "keyword": "white rice"
     },
     {
         "Name": "84CS Chamal ko Pitho Khasro 1kg",
         "Description": "84CS Chamal ko Pitho Khasro 1kg",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "DDKEsq8we"
+        "id": "DDKEsq8we",
+        "category": "Rice",
+        "keyword": "rice flour"
     },
     {
         "Name": "84CS Sattu 500g",
         "Description": "84CS Sattu 500g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "DIPEXoNti"
+        "id": "DIPEXoNti",
+        "category": "Flour",
+        "keyword": "sattu"
     },
     {
         "Name": "84CS Puffed Rice 350g",
         "Description": "84CS Puffed Rice 350g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "jOi89jKM2"
+        "id": "jOi89jKM2",
+        "category": "Rice",
+        "keyword": "puffed rice"
     },
     {
         "Name": "84CS Soybean nutrella 300g",
         "Description": "84CS Soybean nutrella 300g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "rkmit1S9f"
+        "id": "rkmit1S9f",
+        "category": "Soybean",
+        "keyword": "soybean"
     },
     {
         "Name": "84CS Brown Sesame Seeds 200g",
         "Description": "84CS Brown Sesame Seeds 200g",
         "sale_price": " $7.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "8sAiltmWM"
+        "id": "8sAiltmWM",
+        "category": "Seeds",
+        "keyword": "brown sesame seeds"
     },
     {
         "Name": "84CS Brown Sesame Seeds 500g",
         "Description": "84CS Brown Sesame Seeds 500g",
         "sale_price": " $4.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "JIYzLBkQu"
+        "id": "JIYzLBkQu",
+        "category": "Seeds",
+        "keyword": "brown sesame seeds"
     },
     {
         "Name": "84CS Roasted Brown Sesame Pwdr 200g",
         "Description": "84CS Roasted Brown Sesame Pwdr 200g",
         "sale_price": " $3.70 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "wLW35nKiN"
+        "id": "wLW35nKiN",
+        "category": "Powder",
+        "keyword": "roasted sesame powder"
     },
     {
         "Name": "84CS Flaxseed Powder 200g",
         "Description": "84CS Flaxseed Powder 200g",
         "sale_price": " $4.55 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "wBezCf2o0"
+        "id": "wBezCf2o0",
+        "category": "Powder",
+        "keyword": "flaxseed powder"
     },
     {
         "Name": "84CS Flaxseed (Alash) Chop 200g",
         "Description": "84CS Flaxseed (Alash) Chop 200g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "kyXqTEq8R"
+        "id": "kyXqTEq8R",
+        "category": "Seeds",
+        "keyword": "flaxseed"
     },
     {
         "Name": "84CS Jimbu 10g",
         "Description": "84CS Jimbu 10g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "DYSNV97Nc"
+        "id": "DYSNV97Nc",
+        "category": "Herbs",
+        "keyword": "jimbu"
     },
     {
         "Name": "Chamsur (Garden Cress) seeds 100g",
         "Description": "Chamsur (Garden Cress) seeds 100g",
         "sale_price": " $2.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Ay3Kd7MzG"
+        "id": "Ay3Kd7MzG",
+        "category": "Seeds",
+        "keyword": "garden cress"
     },
     {
         "Name": "84CS Lapsi ground 100g",
         "Description": "84CS Lapsi ground 100g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "MWT2YDNUl"
+        "id": "MWT2YDNUl",
+        "category": "Powder",
+        "keyword": "lapsi powder"
     },
     {
         "Name": "84CS Timur whole 50g",
         "Description": "84CS Timur whole 50g",
         "sale_price": " $3.70 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "VTWSVaOLm"
+        "id": "VTWSVaOLm",
+        "category": "Spice",
+        "keyword": "timur whole"
     },
     {
         "Name": "84CS Timur ground 50g",
         "Description": "84CS Timur ground 50g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "0JaXi7cso"
+        "id": "0JaXi7cso",
+        "category": "Spice",
+        "keyword": "timur ground"
     },
     {
         "Name": "84CS Clvs Crdm Cinmn mix 50g",
         "Description": "84CS Clvs Crdm Cinmn mix 50g",
         "sale_price": " $2.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "66dqkrPs2"
+        "id": "66dqkrPs2",
+        "category": "Spice Mix",
+        "keyword": "cloves cardamom cinnamon mix"
     },
     {
         "Name": "84CS Sampho (Dill seed) 100g",
         "Description": "84CS Sampho (Dill seed) 100g",
         "sale_price": " $2.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Bm0PqJWgx"
+        "id": "Bm0PqJWgx",
+        "category": "Seeds",
+        "keyword": "dill seeds"
     },
     {
         "Name": "84CS Jwano (ajwain) 100g",
         "Description": "84CS Jwano (ajwain) 100g",
         "sale_price": " $4.75 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "jSujGMZge"
+        "id": "jSujGMZge",
+        "category": "Spice",
+        "keyword": "ajwain"
     },
     {
         "Name": "84CS Silam seed 200g",
         "Description": "84CS Silam seed 200g",
         "sale_price": " $4.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Y3J021sLS"
+        "id": "Y3J021sLS",
+        "category": "Seeds",
+        "keyword": "silam seeds"
     },
     {
         "Name": "84CS Silam Powder 200g",
         "Description": "84CS Silam Powder 200g",
         "sale_price": " $2.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "rs9Y5GkqC"
+        "id": "rs9Y5GkqC",
+        "category": "Powder",
+        "keyword": "silam powder"
     },
     {
         "Name": "84CS Misri 200g",
         "Description": "84CS Misri 200g",
         "sale_price": " $4.20 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "geDXaCJsf"
+        "id": "geDXaCJsf",
+        "category": "Sweetener",
+        "keyword": "misri"
     },
     {
         "Name": "Saraswoti Mixed Nuts 200g",
         "Description": "Saraswoti Mixed Nuts 200g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fmLjQLGYt"
+        "id": "fmLjQLGYt",
+        "category": "Nuts",
+        "keyword": "mixed nuts"
     },
     {
         "Name": "84CS Mula sinki 100g",
         "Description": "84CS Mula sinki 100g",
         "sale_price": " $5.10 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Zy17x2jOa"
+        "id": "Zy17x2jOa",
+        "category": "Vegetable",
+        "keyword": "mula sinki"
     },
     {
         "Name": "Dried Sliced Radish 200g",
         "Description": "Dried Sliced Radish 200g",
         "sale_price": " $3.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "j7KS3ba7J"
+        "id": "j7KS3ba7J",
+        "category": "Vegetable",
+        "keyword": "dried radish"
     },
     {
         "Name": "84CS Dried veg maseura 150g",
         "Description": "84CS Dried veg maseura 150g",
         "sale_price": " $8.15 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "5h5hqZBtz"
+        "id": "5h5hqZBtz",
+        "category": "Vegetable",
+        "keyword": "dried maseura"
     },
     {
         "Name": "NMU Timur chop 200g",
         "Description": "NMU Timur chop 200g",
         "sale_price": " $8.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "dsjwjTMIb"
+        "id": "dsjwjTMIb",
+        "category": "Spice",
+        "keyword": "timur chop"
     },
     {
         "Name": "NMU Timur fish chop 200g",
         "Description": "NMU Timur fish chop 200g",
         "sale_price": " $7.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fxuoUKEqC"
+        "id": "fxuoUKEqC",
+        "category": "Spice",
+        "keyword": "timur fish chop"
     },
     {
         "Name": "AAMA Dalla & Garlic Pickle 380g",
         "Description": "AAMA Dalla & Garlic Pickle 380g",
         "sale_price": " $5.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "9pFELybcb"
+        "id": "9pFELybcb",
+        "category": "Pickle",
+        "keyword": "dalla garlic pickle"
     },
     {
         "Name": "AAMA Dalla & Radish Pickle 380g",
         "Description": "AAMA Dalla & Radish Pickle 380g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "JXHiMYGaw"
+        "id": "JXHiMYGaw",
+        "category": "Pickle",
+        "keyword": "dalla radish pickle"
     },
     {
         "Name": "AAMA Radish Pickle 380g",
         "Description": "AAMA Radish Pickle 380g",
         "sale_price": " $7.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Pyryc127G"
+        "id": "Pyryc127G",
+        "category": "Pickle",
+        "keyword": "radish pickle"
     },
     {
         "Name": "AAMA Dalla Bamboo Shoot pickle 380g",
         "Description": "AAMA Dalla Bamboo Shoot pickle 380g",
         "sale_price": " $4.99 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "JKCITmIPw"
+        "id": "JKCITmIPw",
+        "category": "Pickle",
+        "keyword": "dalla bamboo shoot pickle"
     },
     {
         "Name": "AAMA Dalla Lime pickle 380g",
         "Description": "AAMA Dalla Lime pickle 380g",
         "sale_price": " $6.50 ",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "trnKbX6WQ"
+        "id": "trnKbX6WQ",
+        "category": "Pickle",
+        "keyword": "dalla lime pickle"
     },
     {
         "Name": "AAMA Sweet Mango pickle 400g",
         "Description": "AAMA Sweet Mango pickle 400g",
-        "sale_price": " $5.20 ",
+        "sale_price": "$5.20",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "yx9sZqvaU"
+        "id": "yx9sZqvaU",
+        "category": "Pickle",
+        "keyword": "sweet mango pickle"
     },
     {
         "Name": "Chiya (Tea)",
         "Description": null,
-        "sale_price": " $2.00 ",
+        "sale_price": "$2.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ybVs7HkVX"
+        "id": "ybVs7HkVX",
+        "category": "Beverage",
+        "keyword": "tea"
     },
     {
         "Name": "TALAP",
         "Description": null,
-        "sale_price": " $1.00 ",
+        "sale_price": "$1.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Idw770kTi"
+        "id": "Idw770kTi",
+        "category": "Snack",
+        "keyword": "talap"
     },
     {
         "Name": "Baraf Batta",
         "Description": null,
-        "sale_price": " $17.00 ",
+        "sale_price": "$17.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fZeWs0qjV"
+        "id": "fZeWs0qjV",
+        "category": "Snack",
+        "keyword": "baraf batta"
     },
     {
         "Name": "Ghaam",
         "Description": null,
-        "sale_price": " $17.00 ",
+        "sale_price": "$17.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "yfpBbUAPJ"
+        "id": "yfpBbUAPJ",
+        "category": "Snack",
+        "keyword": "ghaam"
     },
     {
         "Name": "Duiguna Khusi",
         "Description": null,
-        "sale_price": " $13.00 ",
+        "sale_price": "$13.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "gLfCOHE2N"
+        "id": "gLfCOHE2N",
+        "category": "Snack",
+        "keyword": "duiguna khusi"
     },
     {
         "Name": "Full Cream Milk 2L",
         "Description": null,
-        "sale_price": " $5.00 ",
+        "sale_price": "$5.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Xm9BuNNVH"
+        "id": "Xm9BuNNVH",
+        "category": "Dairy",
+        "keyword": "full cream milk 2L"
     },
     {
         "Name": "Full Cream Milk 3L",
         "Description": null,
-        "sale_price": " $7.00 ",
+        "sale_price": "$7.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "vyxbHJQPe"
+        "id": "vyxbHJQPe",
+        "category": "Dairy",
+        "keyword": "full cream milk 3L"
     },
     {
         "Name": "Atul Chocolate Cream Roll",
         "Description": null,
-        "sale_price": " $1.25 ",
+        "sale_price": "$1.25",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "TZ26b0ist"
+        "id": "TZ26b0ist",
+        "category": "Snack",
+        "keyword": "chocolate cream roll"
     },
     {
         "Name": "Atul Strawberry Cream Roll",
         "Description": null,
-        "sale_price": " $1.25 ",
+        "sale_price": "$1.25",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "nZm7TZx5w"
+        "id": "nZm7TZx5w",
+        "category": "Snack",
+        "keyword": "strawberry cream roll"
     },
     {
         "Name": "Banno Rice 20KG",
         "Description": null,
-        "sale_price": " $69.99 ",
+        "sale_price": "$69.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "eshfjNukk"
+        "id": "eshfjNukk",
+        "category": "Grains",
+        "keyword": "banno rice 20kg"
     },
     {
         "Name": "Banno Rice 5kg",
         "Description": null,
-        "sale_price": " $18.99 ",
+        "sale_price": "$18.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "HfsCBUrqt"
+        "id": "HfsCBUrqt",
+        "category": "Grains",
+        "keyword": "banno rice 5kg"
     },
     {
         "Name": "Kalpana Lavender Incense Sticks",
         "Description": null,
-        "sale_price": " $2.00 ",
+        "sale_price": "$2.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "rmr7OQmJG"
+        "id": "rmr7OQmJG",
+        "category": "Incense",
+        "keyword": "lavender incense sticks"
     },
     {
-        "Name": "Kalpana Lily Insence Sticks",
+        "Name": "Kalpana Lily Incense Sticks",
         "Description": null,
-        "sale_price": " $2.00 ",
+        "sale_price": "$2.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "5j4lgDCQi"
+        "id": "5j4lgDCQi",
+        "category": "Incense",
+        "keyword": "lily incense sticks"
     },
     {
         "Name": "Kalpana Rose Incense Sticks",
         "Description": null,
-        "sale_price": " $2.00 ",
+        "sale_price": "$2.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Thk1zM59U"
+        "id": "Thk1zM59U",
+        "category": "Incense",
+        "keyword": "rose incense sticks"
     },
     {
         "Name": "Kalpana Sandal Incense Sticks",
         "Description": null,
-        "sale_price": " $2.00 ",
+        "sale_price": "$2.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "XK1oHClXp"
+        "id": "XK1oHClXp",
+        "category": "Incense",
+        "keyword": "sandal incense sticks"
     },
     {
         "Name": "Rara Noodles 1pcs",
         "Description": "Rara Noodles 1pcs",
-        "sale_price": " $15.00 ",
+        "sale_price": "$15.00",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "wu8yk5P6y"
+        "id": "wu8yk5P6y",
+        "category": "Noodles",
+        "keyword": "rara noodles"
     },
     {
         "Name": "4Cnrs Furundana 350G",
         "Description": "4Cnrs Furundana 350G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ahlYfXmD4"
+        "id": "ahlYfXmD4",
+        "category": "Snack",
+        "keyword": "furundana 350g"
     },
     {
         "Name": "4Cnrs Furundana 700G",
         "Description": "4Cnrs Furundana 700G",
-        "sale_price": " $7.99 ",
+        "sale_price": "$7.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "pdc751ShX"
+        "id": "pdc751ShX",
+        "category": "Snack",
+        "keyword": "furundana 700g"
     },
     {
         "Name": "Kanchunjanga Agarbatti",
         "Description": "Kanchunjanga Agarbatti",
-        "sale_price": " $2.50 ",
+        "sale_price": "$2.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "CTh2YN8iG"
+        "id": "CTh2YN8iG",
+        "category": "Incense",
+        "keyword": "kanchunjanga agarbatti"
     },
     {
         "Name": "Ghee Laxmi 500G",
         "Description": "Ghee Laxmi 500G",
-        "sale_price": " $10.99 ",
+        "sale_price": "$10.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "1NuJaOa7z"
+        "id": "1NuJaOa7z",
+        "category": "Dairy",
+        "keyword": "ghee laxmi 500g"
     },
     {
         "Name": "Ghee Laxmi 1 kg",
         "Description": "Ghee Laxmi 1 kg",
-        "sale_price": " $16.99 ",
+        "sale_price": "$16.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "0FlPnifQz"
+        "id": "0FlPnifQz",
+        "category": "Dairy",
+        "keyword": "ghee laxmi 1kg"
     },
     {
         "Name": "Bire Noon Whole- 200G Bottle",
         "Description": "Bire Noon Whole- 200G Bottle",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "AfGAJNgfP"
+        "id": "AfGAJNgfP",
+        "category": "Spice",
+        "keyword": "bire noon whole"
     },
     {
         "Name": "4Cnrs Akabare Dalla Pickle 300G",
         "Description": "4Cnrs Akabare Dalla Pickle 300G",
-        "sale_price": " $7.99 ",
+        "sale_price": "$7.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "lmMisuxfX"
+        "id": "lmMisuxfX",
+        "category": "Pickle",
+        "keyword": "akabare dalla pickle"
     },
     {
         "Name": "Choco Fun",
         "Description": "Choco Fun",
-        "sale_price": " $7.99 ",
+        "sale_price": "$7.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "G1cgMtInY"
+        "id": "G1cgMtInY",
+        "category": "Snack",
+        "keyword": "choco fun"
     },
     {
         "Name": "4Cnrs Lapsi Powder 200G",
         "Description": "4Cnrs Lapsi Powder 200G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "X9O9CxTt5"
+        "id": "kX1f39tK2",
+        "category": "Powder",
+        "keyword": "lapsi powder"
+    },
+    {
+        "Name": "4Cnrs Lapsi Powder 500G",
+        "Description": "4Cnrs Lapsi Powder 500G",
+        "sale_price": "$8.99",
+        "img_url": "https://example.com/images/default.jpg",
+        "id": "cR5jHB0La",
+        "category": "Powder",
+        "keyword": "lapsi powder 500g"
     },
     {
         "Name": "4Cnrs Timur whole 50G",
         "Description": "4Cnrs Timur whole 50G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "vkRJxLsr6"
+        "id": "vkRJxLsr6",
+        "category": "Spice",
+        "keyword": "timur whole 50g"
     },
     {
         "Name": "4Cnrs Paun Bhandar/Sweet Lollies",
         "Description": "4Cnrs Paun Bhandar/Sweet Lollies",
-        "sale_price": " $2.50 ",
+        "sale_price": "$2.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "y2qJtGOIT"
+        "id": "y2qJtGOIT",
+        "category": "Candy",
+        "keyword": "paun bhandar sweet lollies"
     },
     {
         "Name": "Nabico Coconut biscuits 100G",
         "Description": "Nabico Coconut biscuits 100G",
-        "sale_price": " $1.45 ",
+        "sale_price": "$1.45",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "FfhMSggqC"
+        "id": "FfhMSggqC",
+        "category": "Snack",
+        "keyword": "coconut biscuits 100g"
     },
     {
         "Name": "Weilong Little Fish-150G",
         "Description": "Weilong Little Fish-150G",
-        "sale_price": " $5.99 ",
+        "sale_price": "$5.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "F3EDQGpli"
+        "id": "F3EDQGpli",
+        "category": "Snack",
+        "keyword": "little fish 150g"
     },
     {
         "Name": "4Cnrs Sesame/Teel ko Laddu",
         "Description": "4Cnrs Sesame/Teel ko Laddu",
-        "sale_price": " $2.99 ",
+        "sale_price": "$2.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ABdhtOlxi"
+        "id": "ABdhtOlxi",
+        "category": "Sweet",
+        "keyword": "sesame laddu"
     },
     {
         "Name": "4Cnrs Dried Anchovies/Sidra 100G",
         "Description": "4Cnrs Dried Anchovies/Sidra 100G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "cPU2YyVED"
+        "id": "cPU2YyVED",
+        "category": "Seafood",
+        "keyword": "dried anchovies 100g"
     },
     {
         "Name": "4Cnrs Rayo Gundruk 100G",
         "Description": "4Cnrs Rayo Gundruk 100G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "NLetreiYt"
+        "id": "NLetreiYt",
+        "category": "Fermented",
+        "keyword": "rayo gundruk 100g"
     },
     {
         "Name": "4Cnrs Tori Gundruk 100G",
         "Description": "4Cnrs Tori Gundruk 100G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "3UPlOaglg"
+        "id": "3UPlOaglg",
+        "category": "Fermented",
+        "keyword": "tori gundruk 100g"
     },
     {
         "Name": "4Cnrs Coriander powder 200G",
         "Description": "4Cnrs Coriander powder 200G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "enNPdeyVm"
+        "id": "enNPdeyVm",
+        "category": "Spice",
+        "keyword": "coriander powder 200g"
     },
     {
         "Name": "4Cnrs Diamond Karahi",
         "Description": "4Cnrs Diamond Karahi",
-        "sale_price": " $29.99 ",
+        "sale_price": "$29.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "NND7bpB7G"
+        "id": "NND7bpB7G",
+        "category": "Cookware",
+        "keyword": "diamond karahi"
     },
     {
         "Name": "4Cnrs Khattu Paun 50G",
         "Description": "4Cnrs Khattu Paun 50G",
-        "sale_price": " $2.50 ",
+        "sale_price": "$2.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "esKANTKzR"
+        "id": "esKANTKzR",
+        "category": "Candy",
+        "keyword": "khattu paun 50g"
     },
     {
         "Name": "4Cnrs Pustakari 200G",
         "Description": "4Cnrs Pustakari 200G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "bZZuYyzl2"
+        "id": "bZZuYyzl2",
+        "category": "Snack",
+        "keyword": "pustakari 200g"
     },
     {
         "Name": "4Cnrs Masala Papad 200G",
         "Description": "4Cnrs Masala Papad 200G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "n8dywgKYC"
+        "id": "n8dywgKYC",
+        "category": "Snack",
+        "keyword": "masala papad 200g"
     },
     {
         "Name": "Himalayan Massage Oil",
         "Description": "Himalayan Massage Oil",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "YhsP5GOxj"
+        "id": "YhsP5GOxj",
+        "category": "Health",
+        "keyword": "massage oil"
     },
     {
         "Name": "4Cnrs Pooja Samagri for Nuwaran",
         "Description": "4Cnrs Pooja Samagri for Nuwaran",
-        "sale_price": " $10.99 ",
+        "sale_price": "$10.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "7gbCQdLO9"
+        "id": "7gbCQdLO9",
+        "category": "Pooja Items",
+        "keyword": "pooja samagri nuwaran"
     },
     {
         "Name": "4Cnrs Pooja Samagri for Ghar Pooja",
         "Description": "4Cnrs Pooja Samagri for Ghar Pooja",
-        "sale_price": " $10.99 ",
+        "sale_price": "$10.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "WoEbWXf7F"
+        "id": "WoEbWXf7F",
+        "category": "Pooja Items",
+        "keyword": "pooja samagri ghar pooja"
     },
     {
         "Name": "Abir/ Red colors 200G",
         "Description": "Abir/ Red colors 200G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "WBmQVPpgg"
+        "id": "WBmQVPpgg",
+        "category": "Color",
+        "keyword": "red colors 200g"
     },
     {
         "Name": "Kesari/Yellow Tikka 200G",
         "Description": "Kesari/Yellow Tikka 200G",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "CeZPdYxOB"
+        "id": "CeZPdYxOB",
+        "category": "Color",
+        "keyword": "yellow tikka 200g"
     },
     {
         "Name": "Janai Threats",
         "Description": "Janai Threats",
-        "sale_price": " $0.99 ",
+        "sale_price": "$0.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "plMSbwS0F"
+        "id": "plMSbwS0F",
+        "category": "Miscellaneous",
+        "keyword": "janai threats"
     },
     {
         "Name": "Pittambari 200G",
         "Description": "Pittambari 200G",
-        "sale_price": " $2.45 ",
+        "sale_price": "$2.45",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "w0fdZWvcR"
+        "id": "w0fdZWvcR",
+        "category": "Cleaning",
+        "keyword": "pittambari 200g"
     },
     {
         "Name": "Coca Cola Classic Can",
         "Description": "Coca Cola Classic Can",
-        "sale_price": " $1.99 ",
+        "sale_price": "$1.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ia60Ibjkr"
+        "id": "ia60Ibjkr",
+        "category": "Beverage",
+        "keyword": "coca cola classic can"
     },
     {
         "Name": "V Energy Drink Original 500ML",
         "Description": "V Energy Drink Original 500ML",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "WRkSwBQXE"
+        "id": "WRkSwBQXE",
+        "category": "Beverage",
+        "keyword": "v energy drink original 500ml"
     },
     {
         "Name": "V Energy Drink Blue 250ML",
         "Description": "V Energy Drink Blue 250ML",
-        "sale_price": " $2.50 ",
+        "sale_price": "$2.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "QzPpl7fxH"
+        "id": "QzPpl7fxH",
+        "category": "Beverage",
+        "keyword": "v energy drink blue 250ml"
     },
     {
         "Name": "Frooty 250ML",
         "Description": "Frooty 250ML",
-        "sale_price": " $1.50 ",
+        "sale_price": "$1.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fcuNRQ2GT"
+        "id": "fcuNRQ2GT",
+        "category": "Beverage",
+        "keyword": "frooty 250ml"
     },
     {
         "Name": "Miranda 250ML",
         "Description": "Miranda 250ML",
-        "sale_price": " $2.50 ",
+        "sale_price": "$2.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "xsfYoh3WV"
+        "id": "xsfYoh3WV",
+        "category": "Beverage",
+        "keyword": "miranda 250ml"
     },
     {
         "Name": "7Up 250ML",
         "Description": "7Up 250ML",
-        "sale_price": " $2.50 ",
+        "sale_price": "$2.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "qskAN7osK"
+        "id": "qskAN7osK",
+        "category": "Beverage",
+        "keyword": "7up 250ml"
     },
     {
         "Name": "Coca Cola 300ML Bottle",
         "Description": "Coca Cola 300ML Bottle",
-        "sale_price": " $2.20 ",
+        "sale_price": "$2.20",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "CJI8NjWse"
+        "id": "CJI8NjWse",
+        "category": "Beverage",
+        "keyword": "coca cola 300ml bottle"
     },
     {
         "Name": "Sprite 300ML Bottle",
         "Description": "Sprite 300ML Bottle",
-        "sale_price": " $2.20 ",
+        "sale_price": "$2.20",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "uFdVIFV8Q"
+        "id": "uFdVIFV8Q",
+        "category": "Beverage",
+        "keyword": "sprite 300ml bottle"
     },
     {
         "Name": "Pran Tamarind",
         "Description": "Pran Tamarind",
-        "sale_price": " $1.99 ",
+        "sale_price": "$1.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "1NmE001fc"
+        "id": "1NmE001fc",
+        "category": "Spice",
+        "keyword": "pran tamarind"
     },
     {
         "Name": "Litchi 150ML",
         "Description": "Litchi 150ML",
-        "sale_price": " $1.20 ",
+        "sale_price": "$1.20",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "QNEvQxi1Q"
+        "id": "QNEvQxi1Q",
+        "category": "Beverage",
+        "keyword": "litchi 150ml"
     },
     {
         "Name": "Mogu Mango",
         "Description": "Mogu Mango",
-        "sale_price": " $2.49 ",
+        "sale_price": "$2.49",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "0UKAefARl"
+        "id": "0UKAefARl",
+        "category": "Beverage",
+        "keyword": "mogu mango"
     },
     {
         "Name": "Mogu Litchi",
         "Description": "Mogu Litchi",
-        "sale_price": " $2.49 ",
+        "sale_price": "$2.49",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "zYpCEoL0S"
+        "id": "zYpCEoL0S",
+        "category": "Beverage",
+        "keyword": "mogu litchi"
     },
     {
         "Name": "Mogu Coconut",
         "Description": "Mogu Coconut",
-        "sale_price": " $2.49 ",
+        "sale_price": "$2.49",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "42HcD75Mp"
+        "id": "42HcD75Mp",
+        "category": "Beverage",
+        "keyword": "mogu coconut"
     },
     {
         "Name": "Mogu Strawberry",
         "Description": "Mogu Strawberry",
-        "sale_price": " $2.90 ",
+        "sale_price": "$2.90",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "a64B5hb3G"
+        "id": "a64B5hb3G",
+        "category": "Beverage",
+        "keyword": "mogu strawberry"
     },
     {
         "Name": "Fruit Juice - Flemmington",
         "Description": "Fruit Juice - Flemmington",
-        "sale_price": " $1.99 ",
+        "sale_price": "$1.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "vSiP9pDQ4"
+        "id": "vSiP9pDQ4",
+        "category": "Beverage",
+        "keyword": "fruit juice flemmington"
     },
     {
         "Name": "Quick Pizza Box",
         "Description": "Quick Pizza Box",
-        "sale_price": " $14.99 ",
+        "sale_price": "$14.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "B9hWQfF7a"
+        "id": "B9hWQfF7a",
+        "category": "Food",
+        "keyword": "quick pizza box"
     },
     {
         "Name": "Quicks Masala Curry Box",
         "Description": "Quicks Masala Curry Box",
-        "sale_price": " $14.99 ",
+        "sale_price": "$14.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "bZet3ti0J"
+        "id": "bZet3ti0J",
+        "category": "Food",
+        "keyword": "quicks masala curry box"
     },
     {
         "Name": "Playing cards / Tass",
         "Description": "Playing cards / Tass",
-        "sale_price": " $6.99 ",
+        "sale_price": "$6.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "plO9lHp54"
+        "id": "plO9lHp54",
+        "category": "Entertainment",
+        "keyword": "playing cards tass"
     },
     {
         "Name": "Lighter",
         "Description": "Lighter",
-        "sale_price": " $1.01 ",
+        "sale_price": "$1.01",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "1SgmR87yy"
+        "id": "1SgmR87yy",
+        "category": "Utility",
+        "keyword": "lighter"
     },
     {
         "Name": "GRB Gulab jamun",
         "Description": "GRB Gulab jamun",
-        "sale_price": " $7.99 ",
+        "sale_price": "$7.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "qFpFMqqrv"
+        "id": "qFpFMqqrv",
+        "category": "Food",
+        "keyword": "grb gulab jamun"
     },
     {
         "Name": "White Rabbit candy",
         "Description": "White Rabbit candy",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "M9JgEZWi1"
+        "id": "M9JgEZWi1",
+        "category": "Food",
+        "keyword": "white rabbit candy"
     },
     {
         "Name": "Rajkarnikars Lakhamari",
         "Description": "Rajkarnikars Lakhamari",
-        "sale_price": " $8.99 ",
+        "sale_price": "$8.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "YS5sqSvxB"
+        "id": "YS5sqSvxB",
+        "category": "Food",
+        "keyword": "rajkarnikars lakhamari"
     },
     {
         "Name": "Rajkarnikars Aaitha",
         "Description": "Rajkarnikars Aaitha",
-        "sale_price": " $8.50 ",
+        "sale_price": "$8.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "F9YokJjYH"
+        "id": "F9YokJjYH",
+        "category": "Food",
+        "keyword": "rajkarnikars aaitha"
     },
     {
         "Name": "Starlight Basmati Rice 5KG",
         "Description": "Starlight Basmati Rice 5KG",
-        "sale_price": " $18.80 ",
+        "sale_price": "$18.80",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "kfRJA18i2"
+        "id": "kfRJA18i2",
+        "category": "Grains",
+        "keyword": "starlight basmati rice 5kg"
     },
     {
         "Name": "Starlight Basmati Rice 20KG",
         "Description": "Starlight Basmati Rice 20KG",
-        "sale_price": " $62.99 ",
+        "sale_price": "$62.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "hJlTmAp7w"
+        "id": "hJlTmAp7w",
+        "category": "Grains",
+        "keyword": "starlight basmati rice 20kg"
     },
     {
         "Name": "Shazia Classic Basmati 5KG",
         "Description": "Shazia Classic Basmati 5KG",
-        "sale_price": " $19.99 ",
+        "sale_price": "$19.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "VcHKVC8P3"
+        "id": "VcHKVC8P3",
+        "category": "Grains",
+        "keyword": "shazia classic basmati 5kg"
     },
     {
         "Name": "Shazia Premium 5KG",
         "Description": "Shazia Premium 5KG",
-        "sale_price": " $19.99 ",
+        "sale_price": "$19.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "aHNWGrj4P"
+        "id": "aHNWGrj4P",
+        "category": "Grains",
+        "keyword": "shazia premium 5kg"
     },
     {
         "Name": "Katoomba Everyday Basmati 5KG",
         "Description": "Katoomba Everyday Basmati 5KG",
-        "sale_price": " $11.99 ",
+        "sale_price": "$11.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "OCLVZYDbh"
+        "id": "OCLVZYDbh",
+        "category": "Grains",
+        "keyword": "katoomba everyday basmati 5kg"
     },
     {
         "Name": "Barkat Classic 5KG",
         "Description": "Barkat Classic 5KG",
-        "sale_price": " $18.99 ",
+        "sale_price": "$18.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ucnocGI9I"
+        "id": "ucnocGI9I",
+        "category": "Grains",
+        "keyword": "barkat classic 5kg"
     },
     {
         "Name": "Barkat Everyday",
         "Description": "Barkat Everyday",
-        "sale_price": " $16.99 ",
+        "sale_price": "$16.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Kwt0c8Mrn"
+        "id": "Kwt0c8Mrn",
+        "category": "Grains",
+        "keyword": "barkat everyday"
     },
     {
         "Name": "Miller Basmati 5KG",
         "Description": "Miller Basmati 5KG",
-        "sale_price": " $14.99 ",
+        "sale_price": "$14.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "IbuODGpR8"
+        "id": "IbuODGpR8",
+        "category": "Grains",
+        "keyword": "miller basmati 5kg"
     },
     {
         "Name": "Tokla Gold Red 1KG",
         "Description": "Tokla Gold Red 1KG",
-        "sale_price": " $10.99 ",
+        "sale_price": "$10.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "qCKXewtrS"
+        "id": "qCKXewtrS",
+        "category": "Grains",
+        "keyword": "tokla gold red 1kg"
     },
     {
         "Name": "Real Juice Litchi 1L",
         "Description": "Real Juice Litchi 1L",
-        "sale_price": " $4.49 ",
+        "sale_price": "$4.49",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Vr9J3PT7D"
+        "id": "Vr9J3PT7D",
+        "category": "Beverage",
+        "keyword": "real juice litchi 1l"
     },
     {
         "Name": "Fuitfun Juice Pineapple 1L",
         "Description": "Fuitfun Juice Pineapple 1L",
-        "sale_price": " $4.49 ",
+        "sale_price": "$4.49",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "k5Fk3XntM"
+        "id": "k5Fk3XntM",
+        "category": "Beverage",
+        "keyword": "fuitfun juice pineapple 1l"
     },
     {
         "Name": "Pran Manjo Juice 1L",
         "Description": "Pran Manjo Juice 1L",
-        "sale_price": " $4.49 ",
+        "sale_price": "$4.49",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "AxqQVC9ov"
+        "id": "AxqQVC9ov",
+        "category": "Beverage",
+        "keyword": "pran manjo juice 1l"
     },
     {
         "Name": "Pran Litchi Juice 1L",
         "Description": "Pran Litchi Juice 1L",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "xFcbtpV6K"
+        "id": "xFcbtpV6K",
+        "category": "Beverage",
+        "keyword": "pran litchi juice 1l"
     },
     {
         "Name": "Parle-G 750G",
         "Description": "Parle-G 750G",
-        "sale_price": " $4.50 ",
+        "sale_price": "$4.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "dDwKihtJc"
+        "id": "dDwKihtJc",
+        "category": "Food",
+        "keyword": "parle-g 750g"
     },
     {
         "Name": "Lotte Choco Pie Chocolate",
         "Description": "Lotte Choco Pie Chocolate",
-        "sale_price": " $5.99 ",
+        "sale_price": "$5.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "l9SStXc8z"
+        "id": "l9SStXc8z",
+        "category": "Food",
+        "keyword": "lotte choco pie chocolate"
     },
     {
         "Name": "Lotte Choco Pie Banana",
         "Description": "Lotte Choco Pie Banana",
-        "sale_price": " $5.99 ",
+        "sale_price": "$5.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "MMqaIl6ff"
+        "id": "MMqaIl6ff",
+        "category": "Food",
+        "keyword": "lotte choco pie banana"
     },
     {
         "Name": "India Gate Classic 5KG",
         "Description": "India Gate Classic 5KG",
-        "sale_price": " $24.99 ",
+        "sale_price": "$24.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "N4ZCp3qG4"
+        "id": "N4ZCp3qG4",
+        "category": "Grains",
+        "keyword": "india gate classic 5kg"
     },
     {
         "Name": "Fortune Chakki Atta 10KG",
         "Description": "Fortune Chakki Atta 10KG",
-        "sale_price": " $19.99 ",
+        "sale_price": "$19.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "TBZqS35nD"
+        "id": "TBZqS35nD",
+        "category": "Grains",
+        "keyword": "fortune chakki atta 10kg"
     },
     {
         "Name": "Pattu Premium Basmati Rice 5KG",
         "Description": "Pattu Premium Basmati Rice 5KG",
-        "sale_price": " $13.99 ",
+        "sale_price": "$13.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "oIO6YvMsx"
+        "id": "oIO6YvMsx",
+        "category": "Grains",
+        "keyword": "pattu premium basmati rice 5kg"
     },
     {
         "Name": "Zeeba Classic 5KG",
         "Description": "Zeeba Classic 5KG",
-        "sale_price": " $19.99 ",
+        "sale_price": "$19.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ba79eM4Qa"
+        "id": "ba79eM4Qa",
+        "category": "Grains",
+        "keyword": "zeeba classic 5kg"
     },
     {
         "Name": "Basanti Everyday 5KG",
         "Description": "Basanti Everyday 5KG",
-        "sale_price": " $10.99 ",
+        "sale_price": "$10.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "1W1qIEL2f"
+        "id": "1W1qIEL2f",
+        "category": "Grains",
+        "keyword": "basanti everyday 5kg"
     },
     {
         "Name": "Fortune Everyday 20KG",
         "Description": "Fortune Everyday 20KG",
-        "sale_price": " $40.99 ",
+        "sale_price": "$40.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "tC6FFmekJ"
+        "id": "tC6FFmekJ",
+        "category": "Grains",
+        "keyword": "fortune everyday 20kg"
     },
     {
         "Name": "Fortune Biryani 20KG",
         "Description": "Fortune Biryani 20KG",
-        "sale_price": " $55.99 ",
+        "sale_price": "$55.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "wTPXYKAcd"
+        "id": "wTPXYKAcd",
+        "category": "Grains",
+        "keyword": "fortune biryani 20kg"
     },
     {
         "Name": "Fortune Biryani 5KG",
         "Description": "Fortune Biryani 5KG",
-        "sale_price": " $16.99 ",
+        "sale_price": "$16.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "H8frcncuR"
+        "id": "H8frcncuR",
+        "category": "Grains",
+        "keyword": "fortune biryani 5kg"
     },
     {
         "Name": "Fortune Super 5KG",
         "Description": "Fortune Super 5KG",
-        "sale_price": " $13.99 ",
+        "sale_price": "$13.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "onQf5Qr1q"
+        "id": "onQf5Qr1q",
+        "category": "Grains",
+        "keyword": "fortune super 5kg"
     },
     {
         "Name": "Sunflower Oil 5L",
         "Description": "Sunflower Oil 5L",
-        "sale_price": " $14.99 ",
+        "sale_price": "$14.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "k0rInAdQO"
+        "id": "k0rInAdQO",
+        "category": "Oils",
+        "keyword": "sunflower oil 5l"
     },
     {
         "Name": "GRB Ghee 500ML",
         "Description": "GRB Ghee 500ML",
-        "sale_price": " $13.99 ",
+        "sale_price": "$13.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Gy7NHbGNN"
+        "id": "Gy7NHbGNN",
+        "category": "Oils",
+        "keyword": "grb ghee 500ml"
     },
     {
         "Name": "Gopatji Cow Ghee 700G",
         "Description": "Gopatji Cow Ghee 700G",
-        "sale_price": " $18.99 ",
+        "sale_price": "$18.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "KN9HBoEFX"
+        "id": "KN9HBoEFX",
+        "category": "Oils",
+        "keyword": "gopatji cow ghee 700g"
     },
     {
         "Name": "Pran Mustard Oil 500ML",
         "Description": "Pran Mustard Oil 500ML",
-        "sale_price": " $5.99 ",
+        "sale_price": "$5.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "rcsBcXvNm"
+        "id": "rcsBcXvNm",
+        "category": "Oils",
+        "keyword": "pran mustard oil 500ml"
     },
     {
         "Name": "Saurbi Red Lentils 1KG",
         "Description": "Saurbi Red Lentils 1KG",
-        "sale_price": " $5.99 ",
+        "sale_price": "$5.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "grEdaZPBB"
+        "id": "grEdaZPBB",
+        "category": "Lentils",
+        "keyword": "saurbi red lentils 1kg"
     },
     {
         "Name": "Pattu Urid Split 1KG",
         "Description": "Pattu Urid Split 1KG",
-        "sale_price": " $6.99 ",
+        "sale_price": "$6.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "YZMPaptR5"
+        "id": "YZMPaptR5",
+        "category": "Lentils",
+        "keyword": "pattu urid split 1kg"
     },
     {
         "Name": "Pattu Turmeric Powder 200G",
         "Description": "Pattu Turmeric Powder 200G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "xNo0Azl05"
+        "id": "xNo0Azl05",
+        "category": "Spices",
+        "keyword": "pattu turmeric powder 200g"
     },
     {
         "Name": "Katoomba Red Chilli 250G",
         "Description": "Katoomba Red Chilli 250G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "0so2B5P91"
+        "id": "0so2B5P91",
+        "category": "Spices",
+        "keyword": "katoomba red chilli 250g"
     },
     {
         "Name": "Maggi Noodles 500G",
         "Description": "Maggi Noodles 500G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "OiCzdnaNF"
+        "id": "OiCzdnaNF",
+        "category": "Food",
+        "keyword": "maggi noodles 500g"
     },
     {
         "Name": "Pattu Mixed Daal 1KG",
         "Description": "Pattu Mixed Daal 1KG",
-        "sale_price": " $6.99 ",
+        "sale_price": "$6.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "11rRGSjgO"
+        "id": "11rRGSjgO",
+        "category": "Lentils",
+        "keyword": "pattu mixed daal 1kg"
     },
     {
         "Name": "GRB Ghee 830ML",
         "Description": "GRB Ghee 830ML",
-        "sale_price": " $18.99 ",
+        "sale_price": "$18.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "oWgYVAw9R"
+        "id": "oWgYVAw9R",
+        "category": "Oils",
+        "keyword": "grb ghee 830ml"
     },
     {
         "Name": "Tata Salt 1KG",
         "Description": "Tata Salt 1KG",
-        "sale_price": " $3.99 ",
+        "sale_price": "$3.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "yDLWcJaqs"
+        "id": "yDLWcJaqs",
+        "category": "Spices",
+        "keyword": "tata salt 1kg"
     },
     {
         "Name": "India Gate Premium 20KG",
         "Description": "India Gate Premium 20KG",
-        "sale_price": " $73.99 ",
+        "sale_price": "$73.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "LSdNRGYrd"
+        "id": "LSdNRGYrd",
+        "category": "Grains",
+        "keyword": "india gate premium 20kg"
     },
     {
         "Name": "Wai Wai Chicken Box",
         "Description": "Wai Wai Chicken Box",
-        "sale_price": " $15.99 ",
+        "sale_price": "$15.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "4epCP4pZO"
+        "id": "4epCP4pZO",
+        "category": "Food",
+        "keyword": "wai wai chicken box"
     },
     {
         "Name": "Wai Wai Veg Box",
         "Description": "Wai Wai Veg Box",
-        "sale_price": " $15.99 ",
+        "sale_price": "$15.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "6RoyEUOjg"
+        "id": "6RoyEUOjg",
+        "category": "Food",
+        "keyword": "wai wai veg box"
     },
     {
         "Name": "Current Hot & Lemon noodles Green Box",
         "Description": "Current Hot & Lemon noodles Green Box",
-        "sale_price": " $16.99 ",
+        "sale_price": "$16.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "i5J4LfXT8"
+        "id": "i5J4LfXT8",
+        "category": "Food",
+        "keyword": "current hot & lemon noodles green box"
     },
     {
         "Name": "Current 2X Hot&Spicy noodles black Box",
         "Description": "Current 2X Hot&Spicy noodles black Box",
-        "sale_price": " $18.99 ",
+        "sale_price": "$18.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "fL8ZzGfgd"
+        "id": "fL8ZzGfgd",
+        "category": "Food",
+        "keyword": "current 2x hot&spicy noodles black box"
     },
     {
         "Name": "Current Hot & Spicy noodles Red Box",
         "Description": "Current Hot & Spicy noodles Red Box",
-        "sale_price": " $18.99 ",
+        "sale_price": "$18.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "qoSoClo9W"
+        "id": "qoSoClo9W",
+        "category": "Food",
+        "keyword": "current hot & spicy noodles red box"
     },
     {
         "Name": "Red Bull Blue",
         "Description": "Red Bull Blue",
-        "sale_price": " $2.99 ",
+        "sale_price": "$2.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "K7JCqjZtZ"
+        "id": "K7JCqjZtZ",
+        "category": "Beverages",
+        "keyword": "red bull blue"
     },
     {
         "Name": "Red Bull Thai",
         "Description": "Red Bull Thai",
-        "sale_price": " $1.99 ",
+        "sale_price": "$1.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "2X0ii2qe1"
+        "id": "2X0ii2qe1",
+        "category": "Beverages",
+        "keyword": "red bull thai"
     },
     {
         "Name": "Balducci Maccheroni 500G",
         "Description": "Balducci Maccheroni 500G",
-        "sale_price": " $2.99 ",
+        "sale_price": "$2.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "jCJmdUNrj"
+        "id": "jCJmdUNrj",
+        "category": "Pasta",
+        "keyword": "balducci maccheroni 500g"
     },
     {
         "Name": "Balducci Spaghetti 500G",
         "Description": "Balducci Spaghetti 500G",
-        "sale_price": " $2.99 ",
+        "sale_price": "$2.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "SfHmPwSdJ"
+        "id": "SfHmPwSdJ",
+        "category": "Pasta",
+        "keyword": "balducci spaghetti 500g"
     },
     {
         "Name": "Balducci Linguine 500G",
         "Description": "Balducci Maccheroni 500G",
-        "sale_price": " $2.99 ",
+        "sale_price": "$2.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "s4zTbxgqG"
+        "id": "s4zTbxgqG",
+        "category": "Pasta",
+        "keyword": "balducci linguine 500g"
     },
     {
         "Name": "Balducci Trivelle 500G",
         "Description": "Balducci Trivelle 500G",
-        "sale_price": " $2.99 ",
+        "sale_price": "$2.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "SuEolryGh"
+        "id": "SuEolryGh",
+        "category": "Pasta",
+        "keyword": "balducci trivelle 500g"
     },
     {
-        "Name": "Kaju Katli 300G - Sharma Kitchen ",
-        "Description": "Kaju Katli 300G ",
-        "sale_price": " $14.99 ",
+        "Name": "Kaju Katli 300G - Sharma Kitchen",
+        "Description": "Kaju Katli 300G",
+        "sale_price": "$14.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "BUoGHgp5Q"
+        "id": "BUoGHgp5Q",
+        "Category": "Sweets",
+        "Keyword": "Kaju Katli"
     },
     {
         "Name": "Yogurt 500G - Sharma Kitchen",
         "Description": "Yogurt 500G",
-        "sale_price": " $4.99 ",
+        "sale_price": "$4.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Dg7wPg0Xf"
+        "id": "Dg7wPg0Xf",
+        "Category": "Dairy",
+        "Keyword": "Yogurt"
     },
     {
         "Name": "Milk Badam - Sharma Kitchen",
         "Description": "Milk Badam",
-        "sale_price": " $4.50 ",
+        "sale_price": "$4.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "j6Kw66A6P"
+        "id": "j6Kw66A6P",
+        "Category": "Dairy",
+        "Keyword": "Milk Badam"
     },
     {
         "Name": "Mango Lassi 350ML - Sharma Kitchen",
         "Description": "Mango Lassi 350ML",
-        "sale_price": " $4.50 ",
+        "sale_price": "$4.50",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "ZWejU9TMn"
+        "id": "ZWejU9TMn",
+        "Category": "Dairy",
+        "Keyword": "Mango Lassi"
     },
     {
         "Name": "Yogurt 1KG - Sharma Kitchen",
         "Description": "Yogurt 1KG",
-        "sale_price": " $6.99 ",
+        "sale_price": "$6.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "Lg3FIs1T7"
+        "id": "Lg3FIs1T7",
+        "Category": "Dairy",
+        "Keyword": "Yogurt"
     },
     {
-        "Name": "Paneer ",
-        "Description": "Paneer -Sharma Kitchen",
-        "sale_price": " $0.03 ",
+        "Name": "Paneer - Sharma Kitchen",
+        "Description": "Paneer - Sharma Kitchen",
+        "sale_price": "$0.03",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "QORYUTALX"
+        "id": "QORYUTALX",
+        "Category": "Dairy",
+        "Keyword": "Paneer"
     },
     {
         "Name": "Tokla Green Jar 500G",
         "Description": "Tokla Green Jar 500G",
-        "sale_price": " $6.99 ",
+        "sale_price": "$6.99",
         "img_url": "https://example.com/images/default.jpg",
-        "id": "uzIC0LDWi"
+        "id": "uzIC0LDWi",
+        "Category": "Condiments",
+        "Keyword": "Tokla Green Jar"
     }
 ]
