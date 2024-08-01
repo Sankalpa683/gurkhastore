@@ -26,7 +26,7 @@ function Page({ params }) {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const response = await axios.get('http://localhost:3000/ProductList.json');
+        const response = await axios.get('/ProductList.json');
         const data = response.data;
         const productData = data.find(item => item.id === productId);
         setProduct(productData);
