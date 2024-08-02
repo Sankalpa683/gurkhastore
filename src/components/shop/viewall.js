@@ -120,7 +120,7 @@ const Viewall = () => {
               {products.slice(0, visibleProducts).map((product, index) => (
                 <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col justify-between">
                   <img
-                    src="https://www.froghollow.com/cdn/shop/products/pink-lady-apples-hero_e628bb5f-8ffe-46c9-9fcb-a2fb947e0ded_300x300.jpg?v=1628281343"
+                    src={product.img_url}
                     alt={product.Name}
                     width={400}
                     height={300}

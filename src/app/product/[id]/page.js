@@ -72,7 +72,7 @@ function Page({ params }) {
         <div className="grid md:grid-cols-2 gap-6 lg:gap-16 items-start max-w-6xl overflow-hidden px-4 mx-auto py-4 mb-8">
           <div className="grid gap-4">
             <img
-              src="https://www.muncha.com/img/l93527.jpg"
+              src={product.img_url}
               alt={product.Name}
               width={600}
               height={600}
