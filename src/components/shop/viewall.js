@@ -42,13 +42,13 @@ const Viewall = () => {
     <section className='py-8'>
       <div className='container mx-auto px-4'>
         <div className='flex flex-wrap justify-between items-center mb-8'>
-          <h1 className="text-lg sm:text-2xl font-bold">New Arrivals</h1>
+          <h1 className="text-lg sm:text-2xl font-bold">All Products</h1>
           <div>
             <Dialog>
               <DialogTrigger asChild>
                 <Button variant="outline" className="flex items-center gap-2">
                   {/* <FilterIcon className="w-5 h-5" /> */}
-                  <span>Sort out</span>
+                  <span>Filter out</span>
                   <ChevronsUpDownIcon className="w-4 h-4 ml-auto" />
                 </Button>
               </DialogTrigger>
@@ -58,28 +58,37 @@ const Viewall = () => {
                 </DialogHeader>
                 <div className="grid gap-4 py-4">
                   <div className="grid gap-2">
-                    <Label htmlFor="category">Category</Label>
-                    <DropdownMenu>
-                      <DropdownMenuTrigger asChild>
-                        <Button variant="outline" className="justify-between w-full">
-                          <span>Select Category</span>
-                          <ChevronsUpDownIcon className="w-4 h-4" />
-                        </Button>
-                      </DropdownMenuTrigger>
-                      <DropdownMenuContent className="w-full">
-                        <DropdownMenuCheckboxItem>Chips</DropdownMenuCheckboxItem>
-                        <DropdownMenuCheckboxItem>Dairy</DropdownMenuCheckboxItem>
-                        <DropdownMenuCheckboxItem>Meat</DropdownMenuCheckboxItem>
-                        <DropdownMenuCheckboxItem>Pickles</DropdownMenuCheckboxItem>
-                      </DropdownMenuContent>
-                    </DropdownMenu>
-                  </div>
-                  <div className="grid gap-2">
-                    <Label htmlFor="size">Filter by</Label>
+                    <Label htmlFor="category">Filter by</Label>
                     <DropdownMenu>
                       <DropdownMenuTrigger asChild>
                         <Button variant="outline" className="justify-between w-full">
                           <span>Select products</span>
+                          <ChevronsUpDownIcon className="w-4 h-4" />
+                        </Button>
+                      </DropdownMenuTrigger>
+                      <DropdownMenuContent className="w-full">
+                        <DropdownMenuCheckboxItem>Pickles</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Spice</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Chips</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Dairy</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Cold Drinks</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Breakfasts</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Masala</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Meat</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Rice</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Oils</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Candy</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Snacks</DropdownMenuCheckboxItem>
+                        <DropdownMenuCheckboxItem>Biscuits</DropdownMenuCheckboxItem>
+                      </DropdownMenuContent>
+                    </DropdownMenu>
+                  </div>
+                  <div className="grid gap-2">
+                    <Label htmlFor="size">Sort out</Label>
+                    <DropdownMenu>
+                      <DropdownMenuTrigger asChild>
+                        <Button variant="outline" className="justify-between w-full">
+                          <span>Filter Products</span>
                           <ChevronsUpDownIcon className="w-4 h-4" />
                         </Button>
                       </DropdownMenuTrigger>

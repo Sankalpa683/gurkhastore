@@ -8,7 +8,7 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
-const NewArrival = () => {
+const PopularProduct = () => {
   const [products, setProducts] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
@@ -87,4 +87,4 @@ const NewArrival = () => {
   );
 }
 
-export default NewArrival;
+export default PopularProduct;

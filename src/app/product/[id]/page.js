@@ -45,7 +45,21 @@ function Page({ params }) {
   }
 
   if (!product) {
-    return <div>Product not found</div>;
+    return (
+      <>
+        <section>
+          <Nav />
+          <div className='flex gap-6 flex-col flex-wrap justify-center items-center min-h-96 py-20'>
+            <img src='/404.png' alt='404_logo' />
+            <h1 className='text-center break-all text-2xl font-semibold'>Oops... No Product was Found.</h1>
+            <Link href='/'>
+              <Button className="text-center bg-[#2D3C8D] hover:bg-blue-900">Go to Homepage</Button>
+            </Link>
+          </div>
+          <Footer />
+        </section>
+      </>
+    );
   }
 
   return (
