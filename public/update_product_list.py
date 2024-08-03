@@ -10,11 +10,11 @@ except Exception as e:
 
 # Step 2: Update the img_url for products with the "Paste" category
 for product in products:
-    if product.get('category') == 'Rice':
-        product['img_url'] = 'https://cdn.britannica.com/17/176517-050-6F2B774A/Pile-uncooked-rice-grains-Oryza-sativa.jpg'
+    if product.get('category') == 'Dairy':
+        product['img_url'] = 'https://t3.ftcdn.net/jpg/05/85/50/46/360_F_585504652_mx2E5zY3SZxOE9yjuHArUIMWFweAgHY6.jpg'
 
 # Print the number of updated products to verify
-updated_count = sum(1 for product in products if product.get('category') == 'Rice')
+updated_count = sum(1 for product in products if product.get('category') == 'Dairy')
 print(f"Number of products updated: {updated_count}")
 
 # Step 3: Write the updated data back to the JSON file
