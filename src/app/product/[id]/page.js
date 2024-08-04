@@ -110,11 +110,11 @@ function Page({ params }) {
                     Enjoy the pure, delicious taste of nature with every bite of our Fresh Organic Apples, knowing you're making a healthy choice
                     for you and your family.
                   </p>
+                  
                 </div>
+                
               </div>
             </div>
-            {/* Moved Separator here */}
-            {/* Price and Button at the bottom */}
             <Separator />
 
             <div className="flex flex-wrap gap-4 md:flex-row items-center justify-between mt-auto">
@@ -125,7 +125,8 @@ function Page({ params }) {
             </div>
           </div>
         </div>
-        <Related_product />
+        <Related_product category={product.category}/>
+
       </Card>
       <Footer />
     </>

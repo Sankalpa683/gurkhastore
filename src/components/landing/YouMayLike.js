@@ -8,7 +8,7 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
-const YouMayLike = () => {
+const PopularProduct = () => {
   const [products, setProducts] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
@@ -23,8 +23,14 @@ const YouMayLike = () => {
     try {
       const response = await axios.get('/ProductList.json');
       const allProducts = response.data;
+
+      // Shuffle the products randomly
+      const shuffledProducts = allProducts.sort(() => 0.5 - Math.random());
+
+      // Paginate the shuffled products
       const startIndex = itemsPerPage * (pageNumber - 1);
-      const paginatedProducts = allProducts.slice(startIndex, startIndex + itemsPerPage);
+      const paginatedProducts = shuffledProducts.slice(startIndex, startIndex + itemsPerPage);
+
       setProducts(paginatedProducts);
     } catch (error) {
       console.error('Error fetching the product data:', error);
@@ -36,7 +42,7 @@ const YouMayLike = () => {
     <section className='py-12'>
       <div className='container mx-auto px-4 md:px-6'>
         <div className='flex flex-wrap justify-between items-center mb-8'>
-          <h1 className="text-lg sm:text-2xl font-bold">Products Your May Like</h1>
+          <h1 className="text-lg sm:text-2xl font-bold">Products You May Like</h1>
           <Link href='/shop'>
             <Button>View all</Button>
           </Link>
@@ -87,4 +93,4 @@ const YouMayLike = () => {
   );
 }
 
-export default YouMayLike;
+export default PopularProduct;
