@@ -10,7 +10,7 @@ import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuChe
 import { Input } from "@/components/ui/input"
 
 
-const Viewall = () => {
+const Viewall = ({search_query,totalproducts}) => {
   const [products, setProducts] = useState([]);
   const [visibleProducts, setVisibleProducts] = useState(10);
   const [loading, setLoading] = useState(false);
@@ -41,8 +41,8 @@ const Viewall = () => {
   return (
     <section className='py-8'>
       <div className='container mx-auto px-4'>
-        <div className='flex flex-wrap justify-between items-center mb-8'>
-          <h1 className="text-lg sm:text-2xl font-bold">All Products</h1>
+        <div className='flex flex-wrap justify-end gap-4 sm:justify-between items-center mb-8'>
+          <h1 className="text-lg sm:text-2xl w-2/3 break-all"><span className='text-bold'>{totalproducts}</span> result found for <span className='text-bold'>{search_query}</span></h1>
           <div>
             <Dialog>
               <DialogTrigger asChild>
