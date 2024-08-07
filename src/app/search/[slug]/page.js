@@ -5,20 +5,17 @@ import Footer from '@/components/footer';
 import Search_product from '@/components/search_product';
 
 const Page = ({ params }) => {
+  const slug_url = params.slug;
   const search_query = params.query;
   const totalproducts = 42;
   
   return (
     <>
-      <main>
         <Nav />
-        <section className='p-12'>
-          <div className='grid grid-cols-1 gap-4 w-full'>
+        <main className='contain-none w-full lg:container py-12 px-1'>
             <Search_product search_query={search_query} totalproducts={totalproducts} />
-          </div>
-        </section>
+        </main>
         <Footer />
-      </main>
     </>
   );
 };

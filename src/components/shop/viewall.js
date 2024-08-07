@@ -10,7 +10,7 @@ import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuChe
 import { Input } from "@/components/ui/input"
 
 
-const Viewall = ({search_query,totalproducts}) => {
+const Viewall = ({ search_query, totalproducts }) => {
   const [products, setProducts] = useState([]);
   const [visibleProducts, setVisibleProducts] = useState(10);
   const [loading, setLoading] = useState(false);
@@ -40,9 +40,11 @@ const Viewall = ({search_query,totalproducts}) => {
 
   return (
     <section className='py-8'>
-      <div className='container mx-auto px-4'>
-        <div className='flex flex-wrap justify-end gap-4 sm:justify-between items-center mb-8'>
-          <h1 className="text-lg sm:text-2xl w-2/3 break-all font-semibold">All Products</h1>
+      <div className='flex flex-wrap flex-col'>
+        <div className='flex flex-wrap justify-around lg:justify-between md:justify-between items-center gap-4'>
+          <div>
+            <h1 className='font-semibold text-lg lg:text-2xl'>All Products</h1>
+          </div>
           <div>
             <Dialog>
               <DialogTrigger asChild>
@@ -119,15 +121,16 @@ const Viewall = ({search_query,totalproducts}) => {
 
           </div>
         </div>
+
         {loading && products.length === 0 ? (
           <div className="flex justify-center items-center h-48">
             <div className="spinner"></div>
           </div>
         ) : (
           <>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+            <div className="grid grid-cols-2 py-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
               {products.slice(0, visibleProducts).map((product, index) => (
-                <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col justify-between">
+                <div key={index} className="bg-white w-full rounded-lg shadow-md overflow-hidden flex flex-col justify-between">
                   <img
                     src={product.img_url}
                     alt={product.Name}
@@ -136,7 +139,7 @@ const Viewall = ({search_query,totalproducts}) => {
                     className="w-full h-48 object-cover"
                   />
                   <div className="p-4 flex flex-col flex-grow">
-                    <h2 className="text-lg sm:text-xl font-semibold mb-2">{product.Name}</h2>
+                    <h2 className="text-lg sm:text-xl font-semibold mb-2 w-full break-all">{product.Name}</h2>
                     <p className="text-gray-600 mb-4">{product.sale_price} per lb</p>
                     <div className="mt-auto">
                       <Link href={`/product/${product.id}`}>

@@ -23,8 +23,7 @@
 #nprogress .spinner-icon {
   border-top-color: #29d; /* Color of the spinner */
 }
-
-
+ 
 @keyframes spin {
   0% {
     transform: rotate(0deg);
