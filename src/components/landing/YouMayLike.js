@@ -64,7 +64,7 @@ const PopularProduct = () => {
           >
             {products.map((product, index) => (
               <SwiperSlide key={index}>
-                <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-full">
+                <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-[370px]">
                   <img
                     src={product.img_url}
                     alt={product.Name}
