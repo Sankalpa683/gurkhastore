@@ -42,7 +42,7 @@ const Viewall = ({search_query,totalproducts}) => {
     <section className='py-8'>
       <div className='container mx-auto px-4'>
         <div className='flex flex-wrap justify-end gap-4 sm:justify-between items-center mb-8'>
-          <h1 className="text-lg sm:text-2xl w-2/3 break-all"><span className='text-bold'>{totalproducts}</span> result found for <span className='text-bold'>{search_query}</span></h1>
+          <h1 className="text-lg sm:text-2xl w-2/3 break-all font-semibold">All Products</h1>
           <div>
             <Dialog>
               <DialogTrigger asChild>
